@@ -4,7 +4,7 @@
 
 Python is an open source programming language with one of
 the largest developer community. Python is being embraced
-by increasing number of developers from Science, Research and Machine Learning Engineers by the day along with the ever increasing contributions of the growing  ***teenage*** coders being introduced to Python
+by increasing number of developers from the fields of Science, Research, Machine Learning Engineers and so on, including kids from schools & this should be enough to understand the availability of diverse libraries and the ease of learning the language.
 
 ## The Language.itself():
 
@@ -51,14 +51,14 @@ by increasing number of developers from Science, Research and Machine Learning E
         *   Search and `.sort()`
         *   Methods: `.index() & .count()`
     *   Strings
-      - Create and Delete
-      - `__docstrings__`
-      - raw Strings
-      - string methods:
+         - Create and Delete
+         - `__docstrings__`
+         - raw Strings
+         - string methods:
           - `.upper()`
           - `.lower()`
           - `.isupper()`
-          - '.islower()'
+          - `.islower()`
           - `.title()`
           - `.istitle()`
           - Checking for presence
@@ -83,7 +83,7 @@ by increasing number of developers from Science, Research and Machine Learning E
     *   a brief introduction to standard library modules
 *   File I/O
     *   `open()`
-    *   .close()`
+    *   `.close()`
     *   `with`
     *   modes of accessing a file
     *   reading and writing on files
