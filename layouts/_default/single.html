@@ -25,7 +25,10 @@
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost">
-              {{ .Content }}
+                {{ range where .Data.Pages "Title" "Learnpython" }}
+                  {{ .Content }}
+                {{ end }}
+              <!-- {{ .Content }} -->
               <hr>
               <div class="related-posts">
                 <h5>Related Posts</h5>
