@@ -4,6 +4,7 @@ categories: ["LearnPython"]
 date: 2018-09-20T15:00:36+05:30
 draft: true
 tags: ["Python"]
+aliases: [/learnpython/]
 ---
 
 ## Course Outline:
