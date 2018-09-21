@@ -6,6 +6,7 @@ draft: true
 tags: ["Python"]
 layout: [/learnpython/]
 url: /learnpython/
+slug: /learnpython/
 ---
 
 ## Course Outline:
