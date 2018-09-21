@@ -25,8 +25,8 @@ theme = "hugo-sustain"
   Twitter       = "gauthamkolluru"
   LinkedIn      = "gauthamkolluru"
   Stackoverflow = "gauthamkolluru"
-#   Medium        = "username"
-#   Telegram      = "username"
+  Medium        = ""
+  Telegram      = ""
 
 ## Main Menu
 [[menu.main]]
