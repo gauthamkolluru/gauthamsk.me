@@ -2,7 +2,7 @@ baseurl = "https://gauthamsk.me/"
 languageCode = "en-US"
 title = "Gautham Kolluru's"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "gauthamkolluru"
+disqusShortname = "gauthamsk-me"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
