@@ -9,7 +9,7 @@ publishdate: 2018-10-06T16:21:36+05:30
     <tr>
         <td style="width:40%">
             <h2>Sai Gautam Kolluru</h2>
-            <h3 style="color:#5ac3ca">Software Engineer</h3>
+            <h3 style="color:#660000;align:center">Software Engineer</h3>
         </td>
         <td style="width:60%">
             <h5>Sai Gautam Kolluru</h5>
