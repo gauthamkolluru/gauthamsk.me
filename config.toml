@@ -5,6 +5,7 @@ title = "Gautham Kolluru's"
 disqusShortname = "gauthamsk-me"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+enableRobotsTXT = "true"
 theme = "hugo-sustain"
 
 [permalinks]
