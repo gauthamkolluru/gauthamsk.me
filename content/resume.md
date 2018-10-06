@@ -5,6 +5,6 @@ date: 2018-09-20T15:01:03+05:30
 publishdate: 2018-10-06T16:21:36+05:30
 ---
 
-<htmd>
-    {{ .Site.BaseURL }}img/{{ .Site.Params.resume }}
-</htmd>
+<div>
+    {{ .Site.BaseURL|safe }}img/{{ .Site.Params.resume|safe }}
+</div>
