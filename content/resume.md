@@ -8,10 +8,11 @@ publishdate: 2018-10-06T16:21:36+05:30
 <table>
     <tr>
         <td style="width:30%">
+            <h2>Sai Gautam Kolluru</h2>
         </td>
         <td style="width:70%">
             <h5>Sai Gautam Kolluru</h5>
-            <p style="width:40%">
+            <p style="width:50%">
                 803C, Livewell Luxury Apartments,
                 Ace Monte Carlo Apartments,
                 Beside TCS ePark,
@@ -21,7 +22,7 @@ publishdate: 2018-10-06T16:21:36+05:30
     </tr>
     <tr>
         <td style="width:30%">
-            <h2>Sai Gautam Kolluru</h2>
+            <span></span>
         </td>
         <td style="width:70%">
             <span></span>
