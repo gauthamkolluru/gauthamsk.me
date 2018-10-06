@@ -9,7 +9,7 @@ publishdate: 2018-10-06T16:21:36+05:30
     <tr>
         <td style="width:40%">
             <center>
-                <img src=".\images\Gautham Linkedin.jpg" style="height:100px;border-radius:50%">  
+                <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
             </center>
             <h2 style="text-align:center">Sai Gautam Kolluru</h2>
             <h3 style="color:#cc0000;text-align:center">Software Engineer</h3>
