@@ -70,7 +70,8 @@ publishdate: 2018-10-06T16:21:36+05:30
         <td style="width:60%">
             <p>
                 <b>Global Data</b>/ Software Engineer
-                <span style="font:6px;color:#d3d3d3">August 2018 - PRESENT</span>, Hyderabad
+                <span style="font:6px;color:#d3d3d3">August 2018 - PRESENT,</span>
+                <span style="font:6px;color:#d3d3d3">Hyderabad</span>
                 I’m responsible for completely handling two products (web applications) built on Coldfusion and SQL Server that were recently took over by Global Data Plc. I work on the enhancements, debugging and re-engineering the  application.
                 I also work closely with the Automation/Python team in writing scripts for web scraping or data scraping from the files in the local machine.
                 I also write python scripts for automating some of my daily tasks.
