@@ -3,7 +3,7 @@ title: "Humanity"
 categories: ["Humanity"]
 date: 2015-02-28T15:00:36+05:30
 publishdate: 2018-10-07T15:00:36+05:30
-author: "Gautam Kolluru"
+
 ---
 
 ### Humanity.... The All Mighty... The True Almighty!!!
