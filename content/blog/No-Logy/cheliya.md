@@ -4,41 +4,29 @@ categories: ["Poem"]
 date: 2012-01-15T15:00:36+05:30
 publishdate: 2018-10-07T15:00:36+05:30
 ---
+P:
 
-*Cheliya.. Oh cheliya...*
+    Cheliya.. Oh cheliya...
+    Neevae lae naa yadalo laya...
+    Cheliya.. Na cheliya...
+    Neekai kariganae nae kanneerula...
+    Neeke needaga nene nilichanae oh cheliya...
+    Ninne na kalalalo chustu migilanae oh kadha la...
 
-*Neevae lae naa yadalo laya...*
+CH:
 
-*Cheliya.. Na cheliya...*
-
-*Neekai kariganae nae kanneerula...*
-
-*Neeke needaga nene nilichanae oh cheliya...*
-
-*Ninne na kalalalo chustu migilanae oh kadha la...*
-
-
-*Yeda laya lo- naa- swasalalona,*
-
-*Nee oosulae vintunna... Haye*
-
-*Yetuveluthunna yenchestunna,*
-
-*Madi ninne talachena...*
+    Yeda laya lo- naa- swasalalona,
+    Nee oosulae vintunna... Haye
+    Yetuveluthunna yenchestunna,
+    Madi ninne talachena...
+    Premisthunna ani chupulathonae cheputhunna...
+    Oo kshanamaina teliyanaelaeda oh maina...
 
 
-*Premisthunna ani chupulathonae cheputhunna...*
-
-*Oo kshanamaina teliyanaelaeda oh maina...*
-
-
-*That I feel so lonely, yeah...*
-
-*therez a better place from this emptiness...*
-
-*and I'm so lonely yeah...*
-
-*therez a better place from this emptiness...!*
+    That I feel so lonely, yeah...
+    therez a better place from this emptiness...
+    and I'm so lonely yeah...
+    therez a better place from this emptiness...!
 
 
 P.S.: This was written as a response to [Kaushi Diwakar's Female version of Gajendra Varma's original](https://www.youtube.com/watch?v=FKER4jMSYyQ) and the English lines were taken from the original song itself!

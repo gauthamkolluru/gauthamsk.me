@@ -15,10 +15,10 @@ P:
 
 CH1:
     
-    Dooram lona digulentundo monnae telisenae,
+    Dooram lona digulentundo ipudey telisenae,
     Nuvve naku dooram avaganae...
     Badha anna padamae vinna ardham telisenae,
-    Nannu Kadanukunna nee maata vinaganae...
+    Nannu Kadantunna nee maata vinaganae...
     Yeda lothulo yedo,
     vyadha maatulo yedo,
     kanneetila yedo,
