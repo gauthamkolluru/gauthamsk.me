@@ -44,3 +44,6 @@ by increasing number of developers from the fields of Science, Research, Machine
 *   Exception Handling 
 *   Working on Basics of OS module - Standard Library Module 
 *   Classes and Objects - OOPS! 
+
+
+<p style="text-align:center"><a href="/contact-me">Reach me</a> for Learning Python</p>
