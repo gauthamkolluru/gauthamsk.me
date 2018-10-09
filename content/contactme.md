@@ -13,7 +13,7 @@ I have been teaching python online since 3 years now and for students across the
 
 I have been a part of couple of online tutoring portals implying I'm experienced in teaching as well.
 
-So, If you want to learn Python Programming Language or Programming through Python as well, then please:
+So, If you want to learn Python Programming Language or Programming through Python then please:
 
 -   Call me: +91 - 939 534 5371
--   Email me @: gautham.kolluru@gmail.com
+-   Email me @: <a href="mailto:{{ .Site.Params.Social.Email }}">gautham.kolluru@gmail.com</a>
