@@ -15,5 +15,5 @@ I have been a part of couple of online tutoring portals implying I'm experienced
 
 So, If you want to learn Python Programming Language or Programming through Python then please:
 
--   Call me: <a href="tel:{{ .Site.Params.Social.Mobile }}">+91 - 939 534 5371</a>
--   Email me @: <a href="mailto:{{ .Site.Params.Social.Email }}">gautham.kolluru@gmail.com</a>
+-   Call me: <a href="tel:+919395345371">+91 - 939 534 5371</a>
+-   Email me @: <a href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a>
