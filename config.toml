@@ -50,3 +50,8 @@ theme = "hugo-sustain"
   identifier = "learnpython"
   weight = 300
   url = "/learnpython/"
+[[menu.main]]
+  name = "Contact Me"
+  identifier = "contact-me"
+  weight = 500
+  url = "/contact-me/"
