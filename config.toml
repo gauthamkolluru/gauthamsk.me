@@ -4,7 +4,7 @@ title = "Gautham Kolluru's"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "gauthamsk-me"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-63609082-2"
 enableRobotsTXT = "true"
 theme = "hugo-sustain"
 
