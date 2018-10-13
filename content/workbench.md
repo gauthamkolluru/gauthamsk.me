@@ -14,3 +14,6 @@ Here is the listing of a few of them:
 * Exporting all <_p_> tags and <_img_> tags from collection of [html files to Excel](https://github.com/gauthamkolluru/PythonLabs/blob/master/htmlToExcel.py)
 * [Searching for Strings](https://github.com/gauthamkolluru/PythonLabs/blob/master/search%20for%20strings%20in%20files.py) in all files of a folder/directory
 * Working with MSSQL database using [Pymssql module, Pandas and SQLAlchemy](https://github.com/gauthamkolluru/PythonLabs/blob/master/ARMS-Pymssql.py) and querying on queries.
+
+
+<p style="text-align:center;font-size:10px"><i>Please feel free to contribute & pull my repos and follow me on <a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></i></p>
