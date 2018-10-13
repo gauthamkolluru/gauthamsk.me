@@ -9,7 +9,7 @@ enableRobotsTXT = "true"
 theme = "hugo-sustain"
 
 [permalinks]
-  post = "/:blog/:year/:month/:day/:slug"
+  post = "/:year/:month/:day/:slug"
 
 [params]
   avatar = "profile.jpg"
@@ -32,15 +32,10 @@ theme = "hugo-sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "Non-Tech"
+  name = "blog"
   weight = 100
   identifier = "blog"
-  url = "/blog/no-logy"
-[[menu.main]]
-  name = "Tech-Know-Logy"
-  weight = 150
-  identifier = "blog2"
-  url = "/blog/Tech-Know-Logy"
+  url = "/blog/"
 [[menu.main]]
   name = "WorkBench"
   identifier = "WorkBench"
