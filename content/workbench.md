@@ -16,4 +16,4 @@ Here is the listing of a few of them:
 * Working with MSSQL database using [Pymssql module, Pandas and SQLAlchemy](https://github.com/gauthamkolluru/PythonLabs/blob/master/ARMS-Pymssql.py) and querying on queries.
 
 
-<p style="text-align:center;font-size:10px"><i>Please feel free to contribute & pull my repos and follow me on <a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></i></p>
+<p style="text-align:center;font-size:12px"><i>Please feel free to contribute & pull my repos and follow me on &nbsp; <a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></i></p>
