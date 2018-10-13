@@ -9,7 +9,7 @@ enableRobotsTXT = "true"
 theme = "hugo-sustain"
 
 [permalinks]
-  post = "/:year/:month/:day/:slug"
+  post = "/:blog/:year/:month/:day/:slug"
 
 [params]
   avatar = "profile.jpg"
