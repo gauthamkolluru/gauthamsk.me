@@ -61,8 +61,3 @@ theme = "hugo-sustain"
   identifier = "contact-me"
   weight = 500
   url = "/contact-me/"
-[[menu.main]]
-  name = "SrikanthWedsSruthi"
-  identifier = "SrikanthWedsSruthi"
-  weight = 600
-  url = "/Srikanth-Weds-Sruthi.pdf"
