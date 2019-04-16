@@ -12,7 +12,7 @@ url: /learnpython/
 
 Python is an open source programming language that is resonating in the tech industry since the last couple of years or precisely whence the technologies like **Artificial Intelligence, Machine Learning, Deep Learning** and **Data Science** have started gaining frequency in the tech news. It can also be said that the prominance for those technologies is being largely bolstered by languages like **Python**.
 
-Python has facilitated the development of the *intelligent* technologies upto a significant extent which in one way conveys that it is easy to learn and So does the fact that Python is being to taught students of 5th Grade in large parts of the world.
+Python has facilitated the development of the intelligent technologies upto a significant extent which in one way conveys that it is easy to learn and So does the fact that Python is being to taught students of 5th Grade in large parts of the world.
 
 ## The Language.itself()
 
