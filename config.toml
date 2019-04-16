@@ -13,6 +13,9 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "profile.jpg"
+  output_13_1 = "output_13_1.png"
+  output_40_1 = "output_40_1.png"
+  output_41_1 = "output_41_1.png"
   author = "Sai Gautham Kolluru"
   description = "Science, Tech & Python"
 
