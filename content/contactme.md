@@ -9,13 +9,13 @@ url: /contact-me/
 
 I love and enjoy teaching.
 
-I have been teaching python since 5 years now online various platforms / events like:
+I have been teaching python since 5 years now on various platforms / events like:
 
-- [Chegg.com](https://www.chegg.com) (Freelance Trainer)
+- [Chegg.com](https://www.chegg.com) - Freelance Trainer
 
-- [Pythonworkshops.com](http://pythonworkshops.com) (2 day workshop in association with Andhra Pradesh State Start-Ups Association)
+- [Pythonworkshops.com](http://pythonworkshops.com) - 2 day workshop in association with Andhra Pradesh State Start-Ups Association
 
-- [Coding Sastra](https://www.codingsastra.com/our_team/sai-gautham-kolluru/)
+- [Coding Sastra](https://www.codingsastra.com/our_team/sai-gautham-kolluru/) - In-house Trainer
 
 For any questions:
 

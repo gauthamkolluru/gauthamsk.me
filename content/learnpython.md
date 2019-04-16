@@ -8,42 +8,28 @@ layout: [/learnpython/]
 url: /learnpython/
 ---
 
-## Course Outline:
+## Course Outline
 
-Python is an open source programming language with one of the largest developer community. Python is being embraced
-by increasing number of developers from the fields of Science, Research, Machine Learning Engineers and so on, including kids from schools & this should be enough to understand the availability of diverse libraries and the ease of learning the language.
+Python is an open source programming language that is resonating in the tech industry since the last couple of years or precisely whence the technologies like **Artificial Intelligence, Machine Learning, Deep Learning** and **Data Science** have started gaining frequency in the tech news. It can also be said that the prominance for those technologies is being largely bolstered by languages like **Python**.
 
-## The Language.itself():
+Python has facilitated the development of the *intelligent* technologies upto a significant extent which in one way conveys that it is easy to learn and So does the fact that Python is being to taught students of 5th Grade in large parts of the world.
+
+## The Language.itself()
 
 ### Module - 1: (10 Hours)
 
-*   Introduction
-*   Environment Preparation
-*   The `Hello World`
-*   Variables and the basic datatypes
-*   Operators: Arithmetic, Assignment, Logical, Membership
-*   Conditional Control Structures
-*   Single-line Conditionals
-*   Loops
-*   Data Structures: Lists, Dictionaries, Sets and Tuples
-*   Strings (3hrs)
-*   Functions 
-    *   With, Without & keyword arguments (` *args, **kwargs`)
-    *   return Single & Multiple values
-*   Modules: Create, Import
-    *   a brief introduction to standard library modules
-*   File I/O
+- Basics - Variables, Operators, Conditionals and Loops
+- Data Structures: Lists, Dictionaries, Sets, Tuples and Strings
+- Functions and Modules
+- Files
 
+### Module - 2: (10 Hours)
 
-### Module - 2: (9 Hours)
-
-*   Comprehensions
-*   Generators & `yield` 
-*   Closures 
-*   File I/O using `Context Managers` 
-*   Exception Handling 
-*   Working on Basics of OS module - Standard Library Module 
-*   Classes and Objects - OOPS! 
-
+- Comprehensions
+- Generators & `yield`
+- Closures
+- File I/O using `Context Managers`
+- Classes and Objects - OOPS!
+- Exception Handling
 
 <p style="text-align:center"><a href="/contact-me">Reach me</a> for Learning Python</p>
