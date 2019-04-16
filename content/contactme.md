@@ -7,13 +7,17 @@ tags: ["Python","Tutor"]
 url: /contact-me/
 ---
 
-I love and enjoy teaching and teaching Python online.
+I love and enjoy teaching.
 
-I have been teaching python online since 3 years now and for students across the globe.
+I have been teaching python since 5 years now online various platforms / events like:
 
-I have been a part of couple of online tutoring portals implying I'm experienced in teaching as well.
+- [Chegg.com](https://www.chegg.com) (Freelance Trainer)
 
-So, If you want to learn Python Programming Language or Programming through Python then please:
+- [Pythonworkshops.com](http://pythonworkshops.com) (2 day workshop in association with Andhra Pradesh State Start-Ups Association)
 
--   Call me: <a href="tel:+919395345371">+91 - 939 534 5371</a>
--   Email me @: <a href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a>
+- [Coding Sastra](https://www.codingsastra.com/our_team/sai-gautham-kolluru/)
+
+For any questions:
+
+- Call: <a href="tel:+919395345371">+91 - 939 534 5371</a>
+- Email: <a href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a>
