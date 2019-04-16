@@ -203,7 +203,7 @@ plt.show()
 
 
 
-![png]({{ .Site.BaseURL }}technology/output_13_1.png)
+![png]("{{ .Site.BaseURL }}technology/output_13_1.png")
 
 
 Linear Regression is all about finding a straight line that has the least **Root Mean Square Value** for the given data points => the line is to be existing between the extreme Y values to make sure the line is  between the points in a given dataset
