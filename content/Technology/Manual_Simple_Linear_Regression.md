@@ -202,7 +202,7 @@ plt.show()
     <Figure size 1440x720 with 0 Axes>
 
 
-{{ .Resources.Match "output_13_1.png" }}
+.Resources.Match "output_13_1.png"
 <!-- ![png]({{ .Site.BaseURL }}img/{{ .Site.Params.output_13_1 }}) -->
 
 
