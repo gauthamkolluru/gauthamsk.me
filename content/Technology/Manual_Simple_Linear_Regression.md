@@ -202,7 +202,7 @@ plt.show()
     <Figure size 1440x720 with 0 Axes>
 
 
-<img src="{{ (.Resources.Match "output_13_1.png").Content | base64Encode }}">
+<img src="{{ (.Resources.Match output_13_1.png).Content | base64Encode }}">
 <!-- ![png]({{ .Site.BaseURL }}img/{{ .Site.Params.output_13_1 }}) -->
 
 
