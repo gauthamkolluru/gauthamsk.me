@@ -3,6 +3,7 @@ title: "One Less Religion... One and Only Culture!!!"
 categories: ["Religion", "Culture"]
 date: 2019-05-24T13:30:36+05:30
 publishdate: 2019-05-24T15:14:50+05:30
+
 ---
 
 A couple of years ago when I was working in Abu Dhabi, a colleague of mine (from Pakistan) asked a question while relaxing just after completing automating a module of a 33,000 cubic meter water pumping station. Since then, that conversation has been playing in my mind whenever I think about any societal institution like Marriage, Religion, Caste or anything of such sort and exactly at about 13 and a half hours ago, right at the transition from yesterday to today at 00:00hrs a new perspective struck my mind while watching one of my favourite movies, 'The Theory of Eveything'.
