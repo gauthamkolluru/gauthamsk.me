@@ -2,7 +2,7 @@
 title: "One Less Religion... One and Only Culture!!!"
 categories: ["Religion", "Culture"]
 date: 2019-05-24T13:30:36+05:30
-publishdate: 2019-05-24T15:14:50+05:30
+publishdate: 2019-05-24T14:50:50+05:30
 
 ---
 
