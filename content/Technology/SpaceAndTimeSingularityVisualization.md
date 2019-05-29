@@ -23,5 +23,3 @@ Theories say that even light cannot escape a black hole which is one of the reas
 Now imagine a person moving at speeds higher than that of light, along the equater of the earth with dia 1.3 times 10^7 mtrs will be able to see himself at the position where he initially left for at least twice in one second, ain't so? => at such mass, an object is able to witness itself outside of itself and defies all the laws of space, time and gravity that are existing on earth right?
 
 Coming back to black holes, if even light is not able to escape a black hole, all these infinte particles of light with infinite mass must have got accumulated at the black hole which again confirms that it is something with infinite mass. now imagine a particle in such space and if that particle is taking a step forward, the particle itself is transforming into another and going back to original shape is possible only when time is shifting backwards (in othr words, rewind) and back shift in time being the only way to get back to its original shape is how I understood as **Space-Time Singularity**.
-
-P.S.: $Density (d) = \frac{Mass of the body (m)}{Volume occupied by the body (V)}$
