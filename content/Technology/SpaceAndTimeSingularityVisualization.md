@@ -24,4 +24,4 @@ Now imagine a person moving at speeds higher than that of light, along the equat
 
 Coming back to black holes, if even light is not able to escape a black hole, all these infinte particles of light with infinite mass must have got accumulated at the black hole which again confirms that it is something with infinite mass. now imagine a particle in such space and if that particle is taking a step forward, the particle itself is transforming into another and going back to original shape is possible only when time is shifting backwards (in othr words, rewind) and back shift in time being the only way to get back to its original shape is how I understood as **Space-Time Singularity**.
 
-P.S.: $Density (d) = \frac{Mass of the body (m)}{Volume occupied by the body (V)}$) collection of mass particles at a tiniest volume of space (implying 'm' -> infinity and 'V' -> 0
+P.S.: $Density (d) = \frac{Mass of the body (m)}{Volume occupied by the body (V)}$
