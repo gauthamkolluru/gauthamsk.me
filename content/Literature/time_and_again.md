@@ -14,7 +14,9 @@ Then she took me to a river bed nearby to the wedding venue. We sat there and sh
 Right at that moment, a sudden noise of 4 beeps ringing periodically with a damping volume has intruded and interrupted the situation... and in just a moments of time, I realised it was from my phone alarm and the time was 0600 hrs. Though slept at 0100 hrs the previous night, I was wide awake. The whole episode played in front of my eyes again and again... and then the first thing I said, 
 
 F**K!!!
+
 Why is this still happening? is it really love or sheer obsession?? - I ain't sure!
+
 How long more until it stops happening? and does it really stop?? - I ain't sure!!
 
 She might even doesn't deserve my love but the love didn't start by figuring out whether she deserves it or not, in the first palce, right?
