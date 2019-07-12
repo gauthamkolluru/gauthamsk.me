@@ -15,8 +15,10 @@ Right at that moment, a sudden noise of 4 beeps ringing periodically with a damp
 
 F**K!!!
 
-Why is this still happening? is it really love or sheer obsession?? - I ain't sure!
+Why is this still happening? is it really love or mere obsession?? - I ain't sure!
 
 How long more until it stops happening? and does it really stop?? - I ain't sure!!
 
-She might even doesn't deserve my love but the love didn't start by figuring out whether she deserves it or not, in the first palce, right?
+She might even doesn't deserve my love (my friends say) but the love didn't start by figuring out whether she deserves it or not, in the first place.
+
+... and, it ain't the first time of such a [dream](http://gautamswritings.blogspot.com/2011/11/it-was-again-dream.html), and I sincerely doubt it is the last time... it's been happenning, time... and again!
