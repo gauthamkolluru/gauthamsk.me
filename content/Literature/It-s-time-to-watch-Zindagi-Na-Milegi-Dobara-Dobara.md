@@ -23,7 +23,7 @@ We all have a list of movies that we would like to come back to and watch time a
 
 There are times when I felt like I'm exhausted, tired, vexed up, lost amidst this daily routines ending up feeling low. There are moments when I didn't even want to have a glance at what I love the most. There were times when I just felt low, as if I'm drowned to the abyss of an ocean and not even sure of the reason. 
 
-I just try to think less at such times and watch ZNMD or Peaceful Warrior (shall talk about this at a later time). Especially, the poems penned by Javed Akhtar, so deep, thought provoking and soothing and my favourite one being:
+I just try to think less at such times and watch ZNMD. I watch it again and again to have a couple of laughs, to feel nostasgic of some moments, to cherish some memories and to be inspired by the writings of [Javed Akhtar](https://en.wikipedia.org/wiki/Javed_Akhtar) sahb. For they sound so soulful, meaningful, soothing and inspiring. Though all poems sound and feel great, this one poem has hit the chords hard.
 
 <center>
 <i>
@@ -49,6 +49,6 @@ Toh Zinda Ho Tum!
 </i>
 </center>
 
-At the end of the film I end up feeling at least some what better with some rejuvenated confidence, hope and energy. I just realised that even writing about it cheers me up. 
+It is with this inspiring poem the film ends with that leaves me in an at least comparatively positive note with some rejuvenated confidence, hope and energy. 
 
 Aakhir (after all), *Kab tak giney, hum dhadkane, dil jaise dhadke dhadakne do*...!
