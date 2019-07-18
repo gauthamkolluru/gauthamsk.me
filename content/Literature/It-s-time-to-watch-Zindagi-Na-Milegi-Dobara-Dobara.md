@@ -2,7 +2,8 @@
 title: "It’s time to watch ‘Zindagi Na Milegi Dobara’... Dobara!"
 # categories: ["Aptitude", "Attitude"]
 date: 2019-07-18T10:07:36+05:30
-publishdate: 2019-07-18T15:27:50+05:30
+# publishdate: 2019-07-18T15:27:50+05:30
+draft: True
 ---
 
 # It’s time to watch ‘Zindagi Na Milegi Dobara’... Dobara!
