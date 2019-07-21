@@ -22,3 +22,18 @@ How long more until it stops happening? and does it really stop?? - I ain't sure
 She might even doesn't deserve my love (my friends say) but the love didn't start by figuring out whether she deserves it or not, in the first place.
 
 ... and, it ain't the first time of such [a dream](http://gauthamswritings.blogspot.com/2011/11/it-was-again-dream.html), and I sincerely doubt it is the last time... it's been happening, time... and again!
+
+<br>
+<center>
+<i>
+Mounam naa madilo ninnu chudanga maatalu aadenulae,
+
+Lokam naa lokam ika nuvvantu aah maatalu telipenulae...
+
+Kallu ninnu choodakunta reppa vippanantu moosenulae,
+
+kalalo naina ninnu choosi manase yentho murisipoyenulae...
+
+<p style="text-align:right;">-- G K</p>
+</i>
+</center>
