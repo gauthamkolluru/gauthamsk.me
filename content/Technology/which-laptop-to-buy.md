@@ -35,6 +35,10 @@ So, here is what I've learnt by far:
         </tr>
     </table>
 
+    Processor   : Intel Core i5 - 4210
+    RAM         : 4GB DDR3 SD
+    OS          : Windows 10 (Activated)
+
     which was about an year old for then. 
 
 <!-- As one of my most recent guru says, "Computers are good at repetitions". For example, Humans might require all the time in the world to add a billion integers together and give the sum and that's where computers came into picture, originally. But, those repetitions themselves paved way for the implementation of the concepts like Servers, Automation and AI (the most recent repetition utilization technology).
