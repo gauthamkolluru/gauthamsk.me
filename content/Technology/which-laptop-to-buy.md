@@ -36,7 +36,9 @@ So, here is what I've learnt by far:
     </table>
 
     Processor   : Intel Core i5 - 4210
+
     RAM         : 4GB DDR3 SD
+    
     OS          : Windows 10 (Activated)
 
     which was about an year old for then. 
