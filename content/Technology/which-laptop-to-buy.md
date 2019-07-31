@@ -3,45 +3,43 @@ title: "Which Laptop to buy next?"
 categories: ["Linux","Python"]
 date: 2019-07-29T06:41:00+05:30
 publishdate: 2019-07-29T10:51:36+05:30
-# draft: true
+draft: true
 ---
 
 ## My Laptop already got slow, which one should I buy next?
 
 A while ago, my friend while talking to one of his students' asked "What happens if a carpenter does not have the proper tools or tools that are not in proper condition?", rhetorically. I'm not sure whether the student asked about something or said something prior but that actually doesn't matter, because, both the analogy and that question of my friend seemed more important.
 
-- How can one claim that a tool is proper or not in case that tool is a "Computer"?
-
-- How is "proper" defined in this context?
+**How is "proper" defined in the context if the tool is a Computer?**
 
 Well, I've been pursuing the quest of finding the "proper" machine for my work since then. I was not fully satisfied with my computer then and I don't think I'm even now but for different reasons. 
 
-So, here is what I've learnt by far:
+<!-- So, here is what I've learnt by far: -->
 
-1. I was having a Dell Latitude Laptop with the configuration :
+I was having a Dell Laptop bought early 2015 with the configuration :
 
-    <table>
-        <tr>
-            <td>Processor</td>
-            <td>Intel Core i5 - 4210</td>
-        </tr>
-        <tr>
-            <td>RAM</td>
-            <td>4GB DDR3 SD</td>
-        </tr>
-        <tr>
-            <td>OS</td>
-            <td>Windows 10 (Activated)</td>
-        </tr>
-    </table>
+<table>
+    <tr>
+        <td> Processor </td>
+        <td> Intel Core i5 - 4210 (4th gen)</td>
+    </tr>
+    <tr>
+        <td> RAM </td>
+        <td> 4GB DDR3 SD </td>
+    </tr>
+    <tr>
+        <td> OS </td>
+        <td> Windows 10 (Activated) </td>
+    </tr>
+</table>
 
-    Processor   : Intel Core i5 - 4210
+which was about 2 years old for then and I just moved from Mac to Windows. I bought the Dell for some other purpose but it had eventually become my daily driver and yes, after using Mac for about 6 years, I wasn't happy with the transition. I like MacOS is for its Rich and Professional User Interface, hand gimmicks (gestures) for navigation, the consistency in performance of MacOS, the boot up times and application startup times apart from the advantages of having other devices of the ecosystem and why I didn't like Windows is for all the reasons mentioned above and the weight of the machine.
 
-    RAM         : 4GB DDR3 SD
-    
-    OS          : Windows 10 (Activated)
+since, I was out of the option of buying a new laptop (as I wanted to Mac if I buy one next) I listed out the things that concerned me about my laptop and started addressing them:
 
-    which was about an year old for then. 
+
+
+<!-- Things I didn't like about Windows OS (Vista, 8 and 8.1 versions I hated though) -->
 
 <!-- As one of my most recent guru says, "Computers are good at repetitions". For example, Humans might require all the time in the world to add a billion integers together and give the sum and that's where computers came into picture, originally. But, those repetitions themselves paved way for the implementation of the concepts like Servers, Automation and AI (the most recent repetition utilization technology).
 
