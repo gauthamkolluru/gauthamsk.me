@@ -37,4 +37,18 @@ I opened the "Task Manager" (Ctrl + Shift + Esc) and learnt to my shock that my 
 
 4. (Uninstall if you have any anti-virus installed in your computer) Since I studied about the Windows Defender and found it to be pretty effective I haven't installed any 3rd party anti-virus solution on my pc.
 
+5. Uninstalled Bloatware - All applications that I deemed unnecessary. (Please be careful to not to uninstall any OS required application. Learn about the applications thoroughly online using articles or forums)
+
+6. Disk Cleanup - which cleaned about 8gb of unnecessary files.
+
+### What I did to improve the performance of my computer with Linux
+
+- I Installed It!
+
+I ain't exggerating but I actually done nothing else apart from installing Linuxmint in my computer. Now, it boots up and opens appliccations at a better pace.
+
+### Coming back to the D-Question
+
+
+
 However, I want to buy a new laptop even as of now as I want to have a lighter machine, one that makes me feel like carrying it to everywhere I go and all the time and does not make my mind pop-up the question, "Will I be really using it there?" and I have other plans for my existing laptop which we'll keep for another article.
