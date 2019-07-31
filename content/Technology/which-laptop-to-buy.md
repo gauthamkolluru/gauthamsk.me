@@ -2,7 +2,7 @@
 title: "Which Laptop to buy next?"
 categories: ["Linux","Python"]
 date: 2019-07-29T06:41:00+05:30
-publishdate: 2019-07-29T10:51:36+05:30
+# publishdate: 2019-07-29T10:51:36+05:30
 draft: true
 ---
 
