@@ -19,7 +19,8 @@ Well, I've been pursuing the quest of finding the "proper" machine for my work s
 So, here is what I've learnt by far:
 
 1. I was having a Dell Latitude Laptop with the configuration :
-
+    | Item | Description |
+    | --- | --- |
     | Processor | Intel Core i5 - 4210 |
     | RAM | 4GB DDR3 SD |
     | OS | Windows 10 (Activated) |
