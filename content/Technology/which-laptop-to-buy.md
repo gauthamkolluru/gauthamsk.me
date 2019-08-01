@@ -8,7 +8,7 @@ publishdate: 2019-07-29T10:51:36+05:30
 
 ## My Laptop already got slow, which one should I buy next?
 
-One day, I was working with python programming on [Visual Studio Code](https://code.visualstudio.com) and MSSQL (SSMS) on my Dell laptop powered by Windows 10 operating system and when I executed a query in SSMS and the program in VS Code at the same time, the system which was stuttering until then suddenly hung up. I had to restart my machine to resume my work. But, soon I restarted the machine and the applications it started stuttering again. I decided to see what is causing it and opened Task Manager (Ctrl + Shift + Esc). I expanded it and then noticed some percentages, like CPU : 25%, Ram : 86% and Disk : 100%. I have noticed it only because I moved to Windows fromo MacOS just then after about 6 years. I was actually shocked to see those figures because I was actually expecting it to the other way round, like CPU running at 80% - 90% of it's capacity. This concerned me. My 2 years old laptop with 2 generations old processor is not being used beyond 30%? This means that, if I expand my RAM and move to a Solid State drive, I should be able to use this laptop with no problems for a long time. I then decided that I shall first find a software fix for my Disk issue. I searched online and implemented the below:
+One day, I was working with python on [Visual Studio Code](https://code.visualstudio.com) and [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019) (SSMS) on my Dell laptop powered by Windows 10 operating system and when I executed a query in SSMS and a program in VS Code at the same time, the system which was stuttering until then suddenly hung up. I had to restart my machine to resume my work. But, soon I restarted the machine and the applications, it started stuttering again. I decided to see what is causing it and opened Task Manager (Ctrl + Shift + Esc). I expanded it and stumbled upon some percentages, like CPU : 25%, Ram : 86% and Disk : 100%. I haven't seen something like that befoe in Windows because I moved to Windows from Mac just about then (after about 6 years). I was actually shocked to see those figures because I was actually expecting it like even the CPU would've been running at 80% - 90% of it's capacity. This concerned me. My 2 years (in 2017) old laptop with 2 generations old processor is not being used beyond 30%? Meaning, if I extend the RAM and move to a Solid State drive, I should be able to use this laptop with no problems for a long enough, ain't it?. I thought that I shall first find a software fix for the Disk issue. I searched online and implemented the below:
 
 <table>
     <tr>
@@ -34,7 +34,7 @@ One day, I was working with python programming on [Visual Studio Code](https://c
 
 ### What I did to improve the performance of my computer with Windows 10
 
-1. Disabled as many applications as I could from the Startup ("Startup" tab in the "Task Manager"). This helped me reduce my bootup time.
+1. Disabled as many applications as I could from the Startup ("Startup" tab in the "Task Manager").
 
 2. Disabled the following services from the services window (windows + 'r' -> type "services.msc" -> click 'ok') and restarted machine:
     - Superfetch
@@ -51,21 +51,22 @@ One day, I was working with python programming on [Visual Studio Code](https://c
 
 6. Disk Cleanup - which cleaned about 8gb of unnecessary files.
 
-After implementing the above I haven't encountered much with the stuttering as long as I haven't used Pycharm with MSSQL or installed Visual Studio (for trying Iron Python). Even then, the stuttering was caused by my HDD itself because of its low read / write speeds and low RAM of 4gb.
+After implementing the above I haven't encountered much with the stuttering as long as I haven't used Pycharm with MSSQL or installed Visual Studio (for trying Iron Python). I learnt that the issue is with the most resource heavy software development application / IDE (Visual Studio), I uninstalled it.
 
-Sometime later, I met one of my old friends and we were planning to go for a coffee (from the meeting point) and he received a call from somebody. I thought maybe in the meanwhile I could shut his laptop down so that we could go, even while he's talking. I failed at it. The UI was different, there were no regular options like shutdown or something on the lockscreen and the lock screen resembled the screens of the hackers they show in movies or series. I was zapped, waited until he completed his call and he was already giving that "I'm a geek, faka!" kinda smile. I became all inquisitive and with a couple of inputs from him I installed Linuxmint and the proformance of my computer has already been better. Better than what I was getting with my Windows OS and since then I've been using the same computer though expanded RAM to 8gb.
+Sometime later, I met one of my old friends and we were planning to go for a coffee (from the meeting point). He received a call just then from somebody. I thought maybe in the meanwhile I could shut his laptop down so that we could go, even while he's talking. I failed at it. The UI seemed clueless, there were no regular options like shutdown or something on the lockscreen and the lockscreen resembled the screens of the hackers they show in movies/series. I was zapped, waited until he completed his call and he was already giving that "I'm a geek, faka!" kinda smile. I became all inquisitive, did a bit of research and installed Linuxmint and the performance of my computer has already been better. Better than what I was getting with Windows and since then I've been using the same computer though expanded RAM to 8gb.
 
-Now, even after opening VS Code with 3 - 4 tabs, 4 - 5 terminals, Chrome browser with 4 - 5 tabs, opera browser running Jupyter Notebook, and Pycharm, my CPU utilisation is getting between 85% - 95% of it's capacity yet providing me with stutter free performance. I close Pycharm and the CPU utilization is back to being 10% - 15%.
+Now, even after opening [VS Code](https://code.visualstudio.com/) with 3 - 4 tabs, 4 - 5 [Terminals](), [Chrome](https://code.visualstudio.com/) browser with 4 - 5 tabs, [Opera](https://www.opera.com/) browser running [Jupyter Notebook](), and [Pycharm](), my CPU utilisation is getting between 85% - 95% of it's capacity yet providing me with stutter free performance. I close Pycharm and the CPU utilization is back to being 10% - 15%.
 
-Hence, my conclusion, If we are not using a 4 generations old processor to it's fullest extent, even about a decade old processor (as of 2019) should be able to do a great deal of work, provided we know how?
+Hence, I conclude that If we are not using a 4 generations old processor (in 2019) to it's fullest extent, even about a decade old processor (as of 2019) should be able to accomplish a good deal of tasks, provided we know how.
 
-I have used 3 major operating systems by far with respect to laptop / desktop computers. Windows from 95 to the latest 10, Ubuntu 12 LTS, 18.04 LTS, MacOS and currently Linuxmint Cinnamon 19 Tessa and therefore would like to share my views on them which might help someone out there in making their choice of which one to choose.
+I have used 3 major operating systems by far with respect to laptop / desktop computers. Windows from 95 to the latest 10, Ubuntu 12 LTS, 18.04 LTS, MacOS and currently Linuxmint Cinnamon 19 Tessa and therefore would like to share my views on them which might help someone out there in making their choice.
 
 - Usecase :
-    - <u>iOS or MacOS Development or Creative Art (Audio / Visuals)</u>: Apple Mac - Pro > Air > MacBook
-    - <u>.Net Development</u> : Windows or Mac machine with at least latest Core i5, 8gb RAM and preferrably SSD of any capacity could be used for some long time down the lane
+    - <u>Creative Art (Audio / Visuals) / Any Apple Software Development</u>: Apple Mac - Pro > Air > MacBook
+    - <u>.Net Development</u> : Windows or Mac machine with at least the then latest Core i5, 8gb RAM (min) and preferrably SSD of any capacity could be used for some good time down the lane
     - <u>Gaming</u> : Windows only
-    - <u>Anything else</u> : Install Linux in your machines as they've come a long way in terms of UI and ease of access. Most of the applications / software packages are being made available and makes your machine's performance much more reliable. Also, **updates do not take life long as in Windows**. With the availability of so many flavours in the OS there is one version even for those age old computers of our grandfather generations.
+    - <u>Artificial Intelligence Programming</u> : A Core i5 processor (min), dedicated GPU (highly suggested), 8gb of RAM (min) and an SSD preferably. Buy a machine with such hardware and install Linux.
+    - <u>Anything else</u> : I suggest, installing Linux as they've come a long way in terms of UI and ease of access. Most of the applications / software packages are being made available in the official repositories. Also, **updates do not take a lifetime to install as in Windows** & With the availability of so many flavours in it, there will be one version suiting even those age old computers of our grandfather generations.
 
 Also, I would like to show a comparisioon between these 3 OSs basing on certain aspects of computing that I deemed important (this factors are my choice):
 
