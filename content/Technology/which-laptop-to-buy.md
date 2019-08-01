@@ -8,44 +8,33 @@ publishdate: 2019-07-29T10:51:36+05:30
 
 ## My Laptop already got slow, which one should I buy next?
 
-Spiderman - Home Coming
-
-Spiderman : I'm Nothing without that suit!
-
-Ironman : If you're nothing without that suit then you shouldn't have it..!
-
-I have used 3 Operating Systems by far when it comes to laptop / desktop computers. Windows from 95 to the latest 10, Ubuntu 12 LTS, 18.04 LTS, MacOS and currently Linuxmint Cinnamon 19 Tessa and therefore would like to share my views on them which might help someone out there in making their choice of which one to choose.
-
-I'm currently having a Dell Laptop bought in early 2015 with the configuration :
+One day, I was working with python programming on [Visual Studio Code](https://code.visualstudio.com) and MSSQL (SSMS) on my Dell laptop powered by Windows 10 operating system and when I executed a query in SSMS and the program in VS Code at the same time, the system which was stuttering until then suddenly hung up. I had to restart my machine to resume my work. But, soon I restarted the machine and the applications it started stuttering again. I decided to see what is causing it and opened Task Manager (Ctrl + Shift + Esc). I expanded it and then noticed some percentages, like CPU : 25%, Ram : 86% and Disk : 100%. I have noticed it only because I moved to Windows fromo MacOS just then after about 6 years. I was actually shocked to see those figures because I was actually expecting it to the other way round, like CPU running at 80% - 90% of it's capacity. This concerned me. My 2 years old laptop with 2 generations old processor is not being used beyond 30%? This means that, if I expand my RAM and move to a Solid State drive, I should be able to use this laptop with no problems for a long time. I then decided that I shall first find a software fix for my Disk issue. I searched online and implemented the below:
 
 <table>
     <tr>
-        <td> Processor </td>
-        <td> Intel Core i5 - 4210 (4th gen)</td>
+        <th colspan="2">Configuration</th>
     </tr>
     <tr>
-        <td> RAM </td>
-        <td> 4GB DDR3 SD </td>
+        <td>Processor &nbsp;</td>
+        <td> Intel Core i5 - 4210 (4th gen) &nbsp;</td>
     </tr>
     <tr>
-        <td> HDD </td>
-        <td> 512 GB SATA @ 5400 rpm </td>
+        <td>RAM &nbsp;</td>
+        <td>4GB DDR3 SD &nbsp;</td>
     </tr>
     <tr>
-        <td> OS </td>
-        <td> Linuxmint 19 Tessa (Cinnamon Edition) </td>
+        <td>HDD &nbsp;</td>
+        <td>512 GB SATA @ 5400 rpm &nbsp;</td>
+    </tr>
+    <tr>
+        <td>OS &nbsp;</td>
+        <td>Linuxmint 19 Tessa (Cinnamon Edition) &nbsp;</td>
     </tr>
 </table>
 
-From 2017, this machine has been my daily driver. Until then I was using a Apple MacBook Pro 2011 Edition bought in 2011 and used until 2016. After using Mac for about 6 years, I wasn't happy with the transition. I like MacOS is for its Rich and Professional User Interface, hand gimmicks (gestures) for navigation, the consistency in performance of MacOS, the boot up times and application startup times apart from the advantages of having other devices of the ecosystem and why I didn't like Windows is for all the reasons above and the weight of the machine.
-
-Since, I was out of the options of buying a new laptop (as I wanted to MacBook Pro again for my next device) I listed out the things that concerned me about my laptop and started addressing them.
-
 ### What I did to improve the performance of my computer with Windows 10
 
-I opened the "Task Manager" (Ctrl + Shift + Esc) and learnt to my shock that my CPU utilization is not going beyond 30%. It is only Ram and Disk that are maxing out. Ram generally at 86% of utilization but Disk (HDD) is stuck at 100%. This simply meant that, the Ram and Disk are becomming the bottlenecks for my CPU's performance. Then searched for tips and tricks to improve the performance of my machine and implemented the following:
-
-1. Disabled as many applications as I could from the Startup ("Startup" tab in the "Task Manager"). This helped me reduce my bootup time. 
+1. Disabled as many applications as I could from the Startup ("Startup" tab in the "Task Manager"). This helped me reduce my bootup time.
 
 2. Disabled the following services from the services window (windows + 'r' -> type "services.msc" -> click 'ok') and restarted machine:
     - Superfetch
@@ -62,84 +51,78 @@ I opened the "Task Manager" (Ctrl + Shift + Esc) and learnt to my shock that my 
 
 6. Disk Cleanup - which cleaned about 8gb of unnecessary files.
 
-After implementing the above, the performance of my laptop has not considerably but significantly improved with the bootup times of about 45 seconds and a pretty decent and lag-less application startup times, in other words I made it to be better than my Mac that I had. 
+After implementing the above I haven't encountered much with the stuttering as long as I haven't used Pycharm with MSSQL or installed Visual Studio (for trying Iron Python). Even then, the stuttering was caused by my HDD itself because of its low read / write speeds and low RAM of 4gb.
 
-About an year later, I met one of my old friends and we were planning to go for a coffee (from the meeting point) and he received a call from somebody. I thought maybe in the meanwhile I could shut his laptop down so that we could go, even while he's talking. I failed at it. The UI was different, there were no regular options like shutdown or something on the lockscreen and the lock screen resembled the screens of the hackers they show in movies or series. I was zapped, waited until he completed his call and he was already giving that "I'm a geek, faka!" kinda smile. I became all inquisitive and with a couple of inputs from him I installed Linuxmint and the proformance of my computer has already been better. Better than what I was getting with my Windows with respect to applications startups, bootups and shutdowns and since then I've been using the same computer.
+Sometime later, I met one of my old friends and we were planning to go for a coffee (from the meeting point) and he received a call from somebody. I thought maybe in the meanwhile I could shut his laptop down so that we could go, even while he's talking. I failed at it. The UI was different, there were no regular options like shutdown or something on the lockscreen and the lock screen resembled the screens of the hackers they show in movies or series. I was zapped, waited until he completed his call and he was already giving that "I'm a geek, faka!" kinda smile. I became all inquisitive and with a couple of inputs from him I installed Linuxmint and the proformance of my computer has already been better. Better than what I was getting with my Windows OS and since then I've been using the same computer though expanded RAM to 8gb.
 
-Even now I have one complaint against my current laptop which is its weight for which I'm looking out for one in the market. After using all the 3 major OSs currently existing, It had been a very difficult decision. Therefore, here I present the way I zeroed in one machine.
+Now, even after opening VS Code with 3 - 4 tabs, 4 - 5 terminals, Chrome browser with 4 - 5 tabs, opera browser running Jupyter Notebook, and Pycharm, my CPU utilisation is getting between 85% - 95% of it's capacity yet providing me with stutter free performance. I close Pycharm and the CPU utilization is back to being 10% - 15%.
 
-- Usecases:
-    - Programming:
-        - Python programming Generic / Automation
-        - Python Programming for Artificial Intelligence / Machine Learning
-        - Shell scripting (at leisure)
-        - [HUGO](https://gohugo.io/) for maintaining my website
-    - Editors / IDEs:
-        - Pycharm
-        - Visual Studio Code
-        - VIM
-        - [Anaconda](https://www.anaconda.com/) (Jupyter)
-    - Anything else mostly happens in the browser itself - [Opera](https://www.opera.com/hi) / [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+Hence, my conclusion, If we are not using a 4 generations old processor to it's fullest extent, even about a decade old processor (as of 2019) should be able to do a great deal of work, provided we know how?
 
-- Requirements:
-    - Impressive bootup and Application startup speeds
-    - Rich and Professional looking UI
-    - Consistency at the performance (No system hangups and application crashes)
-    - Light weight
-    - Customisability
+I have used 3 major operating systems by far with respect to laptop / desktop computers. Windows from 95 to the latest 10, Ubuntu 12 LTS, 18.04 LTS, MacOS and currently Linuxmint Cinnamon 19 Tessa and therefore would like to share my views on them which might help someone out there in making their choice of which one to choose.
+
+- Usecase :
+    - <u>iOS or MacOS Development or Creative Art (Audio / Visuals)</u>: Apple Mac - Pro > Air > MacBook
+    - <u>.Net Development</u> : Windows or Mac machine with at least latest Core i5, 8gb RAM and preferrably SSD of any capacity could be used for some long time down the lane
+    - <u>Gaming</u> : Windows only
+    - <u>Anything else</u> : Install Linux in your machines as they've come a long way in terms of UI and ease of access. Most of the applications / software packages are being made available and makes your machine's performance much more reliable. Also, **updates do not take life long as in Windows**. With the availability of so many flavours in the OS there is one version even for those age old computers of our grandfather generations.
+
+Also, I would like to show a comparisioon between these 3 OSs basing on certain aspects of computing that I deemed important (this factors are my choice):
 
 <center>
     <table>
         <tr>
-            <th> Requirement </th>
-            <th> Linux </th>
-            <th> MacOS </th>
-            <th> Windows </th>
+            <th>Requirement &nbsp;</th>
+            <th>Linux &nbsp;</th>
+            <th>MacOS &nbsp;</th>
+            <th>Windows &nbsp;</th>
         </tr>
         <tr>
-            <td> UI </td>
-            <td> 1 </td>
-            <td> 2 </td>
-            <td> 1 </td>
+            <td> UI &nbsp;</td>
+            <td> 1 &nbsp;</td>
+            <td> 2 &nbsp;</td>
+            <td> 1 &nbsp;</td>
         </tr>
         <tr>
-            <td> Bootup Speeds </td>
-            <td> 2 </td>
-            <td> 1 </td>
-            <td> 0 </td>
+            <td> Bootup Speeds &nbsp;</td>
+            <td> 2 &nbsp;</td>
+            <td> 1 &nbsp;</td>
+            <td> 0 &nbsp;</td>
         </tr>
         <tr>
-            <td> Application Startup Speeds </td>
-            <td> 2 </td>
-            <td> 1 </td>
-            <td> 0 </td>
+            <td> Application Startup Speeds &nbsp;</td>
+            <td> 2 &nbsp;</td>
+            <td> 1 &nbsp;</td>
+            <td> 0 &nbsp;</td>
         </tr>
         <tr>
-            <td> Consistency </td>
-            <td> 0 </td>
-            <td> 2 </td>
-            <td> 1 </td>
+            <td> Consistency &nbsp;</td>
+            <td> 0 &nbsp;</td>
+            <td> 2 &nbsp;</td>
+            <td> 1 &nbsp;</td>
         </tr>
         <tr>
-            <td> Application Availability </td>
-            <td> 0 </td>
-            <td> 1 </td>
-            <td> 2 </td>
+            <td> Application Availability &nbsp;</td>
+            <td> 0 &nbsp;</td>
+            <td> 1 &nbsp;</td>
+            <td> 2 &nbsp;</td>
         </tr>
         <tr>
-            <td> Customisability </td>
-            <td> 2 </td>
-            <td> 0 </td>
-            <td> 1 </td>
+            <td> Customisability &nbsp;</td>
+            <td> 2 &nbsp;</td>
+            <td> 0 &nbsp;</td>
+            <td> 1 &nbsp;</td>
         </tr>
     </table>
 </center>
 
 Legend: 0 < 1 < 2
 
-After learning that even a 4 generations old Core i5 still performs so well, then the hardware that we have shouldn't actually matter much for what we do and therefore I could finalise the order of priorities for the machine that I'll be buying next. 
+Finally, all I suggest is, identify your use case, basing on which, decide the operating system that suits your requirements and the hardware, finalise it as your budget in the order :
 
-Operating System > Processor > HDD
+<center>
+    <b>Operating System > Processor (Core i7 > Core i5 > Core i3) > HDD (SDD > @ 7200 rpm > @ 5400 rpm)</b>
+</center>
 
 <!-- Things I didn't like about Windows OS (Vista, 8 and 8.1 versions I hated though) -->
 
