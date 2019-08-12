@@ -40,13 +40,13 @@ We'll be dealing only with understand of Django and therefore those who are not 
 
 ### Demystifying Jargons
 
-**Framework :**
+#### Framework
 
 Suppose you want to buy clothings for yourself, basically you have 2 options of doing so. You can either buy the material and get it stitched or you can buy the readymade ones and just get them altered as per your requirement. We highly prefer the latter for the reason that alterations are quicker and easier as the clothings are already stitched with some standard dimensions pre-defined like Small, Medium, Large, XL, etc...
 
 Ejjgatly (exactly) what a Framework is. A set of pre-defined files, folders and instructions of altering them for quicker and easier development of a project.
 
-**Django :**
+#### Django
 
 It is a Python based web application development framework that stands true to it's tag line, "**For Perfectionists with Deadlines**".
 
@@ -54,9 +54,11 @@ It means nothing but a set of python files, folders and instructions of developi
 
 Let's explore further by actually developing the application.
 
-**Virtual Environment :**
+#### Virtual Environment
 
 With respect to Python, a virtual environment is something that works as if a fresh new copy of Python has been installed along with the basic modules like PIP, Setup tools and Wheel.
+
+(A Virtual environment looks just like another folder that contains few files and folders within in your CWD/PWD that you created it in.)
 
 Installing modules in Python using PIP also installs all its dependencies which sometimes might conflict with the some existing packages / modules which might result in adverse results. Which is why it is recommended to have a virtual environment, preferably one for each project.
 
@@ -66,15 +68,15 @@ Now, since we're done with defining the scopes, let's kick start...
 
 Step 0:
 
-**Install Virtualenv for Python**:
+##### Install Virtualenv for Python
 
 ```terminal
 pip install virtualenv
 ```
 
-**Create Virtual Environment :**
+##### Create Virtual Environment
 
-Open terminal / command prompt, navigate to the directory where you want to create the Django Project and run the following:
+Open terminal<sup>1</sup> / command prompt<sup>2</sup>, navigate to the directory where you want to create the Django Project and run the following:
 
 Syntax:
 
@@ -87,3 +89,12 @@ Example:
 ```terminal
 virtualenv djenv
 ```
+
+Note:
+
+<sup>1</sup> Linux / Unix / MacOS
+
+<sup>2</sup> Windows
+
+
+##### Activate Virtual Environment
