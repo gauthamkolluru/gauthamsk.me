@@ -14,11 +14,18 @@ I wasn't able to figure out and thought should change the topic in my mind and l
 
 I have ridden 10s of times since then and everytime I felt same after reaching the destination. I understood that I wasn't liking reaching the destination (doesn't necessarily mean I would like not reaching it at all as well). It felt like something has ended. Sure, the (onward) journey did and that was concerning. I was exploring that feeling on my return ride and understood that it felt like once I reached the destination I have nothing to do anymore (at least for sometime), like I cannot feel the happiness that I used to, while riding. I was exploring the feeling and the possible / probable reasons triggering, more and deeper and I realised something.
 
-I realised that I have been enjoying the journey. The destination if at all got me excited, it was only for the distance from my start point (as they say, "*the more the merrier!!!*"). Apart from the distance nothing much about the destination used to excite me. Sooner than later I realised that the place where I used to plan to end the journey isn't actually a place where there were no roads further. It was just a mere pause in my ride. The only difference being the direction, making my strating point the destination this time. Then I realised... that I've to continue yet...
+I realised that I have been enjoying the journey. The destination if at all got me excited, it was only for the distance (as they say, "*the more the merrier!!!*"), apart from the which nothing much excited me of it most times. Sooner than later I realised that the place where I used to plan to end the journey isn't actually a place where there were no roads further. I observed, in my onward journeys as well, I used to take breaks, sometimes for having coffee, sometimes for taking a leak and once I felt that these pauses too were pretty much similar to the destination, the only difference being the direction of my travel from that point of pause/break. What happens, I thought, if I do not turn back from there? What happens, if I proceed forward? Take another break and proceed forward? and again forward from there? so on and so forth. Eventually, I'd be reaching my initial starting point, wouldn't I? **After all, the Earth isn't flat, is it?** I started generalising this theory and observed a similar cycle, **Seed -> Plant -> Seed**, **Water -> Vapour -> Water (rain)** and even **Day -> Night -> Day**. I then wondered, isn't even nature reflecting the same thing? Think and **enjoy your current/upcoming journeys thoroughly**.
+
+
+<!-- , that **Destinations are momentary and only Journeys are continuous**? and
+
+I tried checking this analogy with other things we do like education, career, passion etc. checking what were the breaks and what were the destinations. To life I understood there's only one destination which had begun right when we were born and ends at the same place for all of us. 
+
+If the direction Destination was just where I paused for some time and continued again, this time in the opposite direction, to home.The only difference being the direction, making my strating point the destination this time. Then I realised... that I've to continue yet... -->
 
 <!-- and even without essentially taking a return, I would still come back to the point where I started, wouldn't I? (it would just be the matter of time though) the **Earth isn't flat, afterall**! A **Destination** is just a point of reference in a trip from where one have to take a 'TURN' which could even be a re'TURN'. Doesn't that mean, that every end is just a new beginning? -->
 
-<center><i>Enjoy the <b>Journeys</b>. Have more and more of them. <b>Destinations</b> are mere pauses or small breaks!!!</i></center>
+<!-- <center><i>Enjoy the <b>Journeys</b>. Have more and more of them. <b>Destinations</b> are mere pauses or small breaks!!!</i></center> -->
 
 <p style="text-align:right;"><i>- Baba Gauthamananda</i> <span>&#128540</span></p>
 
