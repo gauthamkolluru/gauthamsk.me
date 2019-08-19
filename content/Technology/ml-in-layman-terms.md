@@ -58,7 +58,7 @@ Now, imagine a computer program, that could mimic the infant as mentioned above 
 
 #### Defining Machine Learning
 
-Machine has been defined by a lot of scientists and researches and many other in their own terms. The most modern definition is said to be from **Tom M. Mitchell** among a couple of other's definitions.
+Machine has been defined by a lot of scientists and researches and many other in their own terms. The most modern definition is said to be from **[Tom M. Mitchell](http://www.cs.cmu.edu/~tom/)** among a couple of other's definitions.
 
 >	Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. - [expertsystem](https://www.expertsystem.com/machine-learning-definition/)
 <br>
@@ -67,11 +67,11 @@ Machine has been defined by a lot of scientists and researches and many other in
 <br>
 <br>
 >	A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E. - [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/)
-
 <br>
 <br>
+>	Imparting a computer program with the learning capabilities of a brain (preferrably a human's) is Machine Learning. - [Gautham Kolluru](https://gauthamsk.me/technology/ml-in-layman-terms/)
 
-**P.S**: This is just the first part of the tutorial on understanding the most basics of ML. In the continuation to this article, we shall try understanding a couple of concepts, considering a few more constraints on the same / similar example.
+**P.S**: This is just the first part of the tutorial on understanding the most basics of ML. In the continuation to this article, we shall try understanding a couple of concepts, considering a few more constraints on the same / similar example. In these articles, I would try just to throw some light on some basic learning methodologies employed by our brain compared with the existing Machine Learning algorithms that seem similar.
 
 
 <!-- As part of our childhood, we all have come across the problems like, "if a person took 30 mins to cover a distance of 15 units how much time would he require to cover a distance of 9 units ?", ain't we?
