@@ -29,27 +29,28 @@ Our parent have shown us the image ![png](/img/800px-LetterA.png) and uttered a 
 
 What would have essentially happened:
 
-	Our parent has given us a visual and an audio input:
+Our parent has given us a visual and an audio input:
 
-	<table>
-		<tr>
-			<th>Visual Input (Image)</th>
-			<th>Output (Sound)</th>
-		</tr>
-		<tr>
-			<td><img src="/img/800px-LetterA.png"></td>
-			<td>ey</td>
-		</tr>
-	</table>
-	<i>Tab: 1 - Imagine the inputs have been stored in this format</i>
+<table>
+	<tr>
+		<th>Visual Input (Image)</th>
+		<th>Output (Sound)</th>
+	</tr>
+	<tr>
+		<td><img src="/img/800px-LetterA.png" height="100px" width="100px"></td>
+		<td>ey</td>
+	</tr>
+</table>
 
-	Our brain would taken both and stored the input data by associating them to each other. 
+*Tab: 1 - Imagine the inputs have been stored in this format*
 
-	=> Whenever you have heard of the sound 'ey', indentify the character associated with it or
+Our brain would taken both and stored the input data by associating them to each other. 
 
-	=> Whenever you have visually indentified a character 'A', say it's sound
+=> Whenever you have heard of the sound 'ey', indentify the character associated with it or
 
-	It is by this method of association that we have learnt identifying a lot of objects, characters and a lot more. It seems more fascinating that irrespective of the change in font of the character (like Times New Roman, Ariel, Calibri, Cambria or Comic Sans etc...) as long as the shape seemed closer to the one that was stored in our brain, we still are able to identify it accurately.
+=> Whenever you have visually indentified a character 'A', say it's sound
+
+It is by this method of association that we have learnt identifying a lot of objects, characters and a lot more. It seems more fascinating that irrespective of the change in font of the character (like Times New Roman, Ariel, Calibri, Cambria or Comic Sans etc...) as long as the shape seemed closer to the one that was stored in our brain, we still are able to identify it accurately.
 
 This is just one method of learning that a human brain does which is applicable only in certain situation among from many other learning methodologies that the brain implements.
 
@@ -57,24 +58,18 @@ Now, imagine a computer program, that could mimic the infant as mentioned above 
 
 #### Defining Machine Learning
 
-```
 Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. - [expertsystem](https://www.expertsystem.com/machine-learning-definition/)
-```
-
-```
+<br>
+<br>
 Machine learning is the science of getting computers to act without being explicitly programmed. - [Stanford](https://www.coursera.org/lecture/machine-learning/what-is-machine-learning-Ujm7v)
-```
-
-```
+<br>
+<br>
 A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E. - [Tom M. Mitchell](http://www.cs.cmu.edu/~tom/)
-```
-
 <br>
 <br>
 <br>
 <br>
-
-P.S: This is just the first part of the tutorial on understanding the most basics of ML. In the continuation to this article, we shall try understanding a couple of concepts, considering a few more constraints on the same / similar example. 
+**P.S**: This is just the first part of the tutorial on understanding the most basics of ML. In the continuation to this article, we shall try understanding a couple of concepts, considering a few more constraints on the same / similar example.
 
 
 <!-- As part of our childhood, we all have come across the problems like, "if a person took 30 mins to cover a distance of 15 units how much time would he require to cover a distance of 9 units ?", ain't we?
