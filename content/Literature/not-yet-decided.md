@@ -46,7 +46,17 @@ Yes, she got married to that guy she asked me not to worry about 🤪...
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ... and, what happens next?
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -58,14 +68,25 @@ Yes, she got married to that guy she asked me not to worry about 🤪...
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ... or, am I?
 <br>
 <br>
 <br>
 <br>
 <br>
-<b style="font-size:24">Damn... Iam!!!</b>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b><font size="6">Damn, Iam!!!</font></b></p>
+<br>
+<br>
 <sup>1&nbsp;</sup> A techfest is an event conducted by colleges or departments of colleges of engineering that involved multiple smaller events like, symposiums, project presentations and a whole lot of activities
 
 <sup>2</sup> Men's cries usually aren't real, if they're done in public. Not that one shouldn't, one wouldn't!
