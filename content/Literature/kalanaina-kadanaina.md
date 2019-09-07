@@ -39,7 +39,7 @@ CH 2:
     Vidhi veedhilo nene,
     Viharisthu unnaney,
     Vennelaina laeni niscilo,
-    Kannulaina theravaka kalo,
+    Kannulaina theravaka kalalo,
     Kalanni neethoney nimpesa nene,
     Nuvvulaeni kalanaina vaddhanukunnaney,
     Vodi needey mari,
