@@ -40,9 +40,9 @@ CH 2:
     Viharisthu unnaney,
     Vennelaina laeni niscilo,
     Kannulaina theravaka kalalo,
-    Kalanni neethoney nimpesa nene,
+    Kalalanni neethoney nimpesa nene,
     Nuvvulaeni kalanaina vaddhanukunnaney,
     Vodi needey mari,
     Koraenae cheli,
-    Yeppudaina yekadaina,
+    Yeppudaina yekkadaina,
     Kalanaina kadanaina...
