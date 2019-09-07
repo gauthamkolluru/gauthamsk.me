@@ -28,7 +28,7 @@ CH 1:
     Maayedo chesi nuvvey,
     Matthedo jalli vellavae,
     Matthullo maimarachi migilaney nene,
-    maarpantu vaddantu yemaarpulloney,
+    Maarpantu vaddantu yemaarpulloney,
     Kshanamaina sarey,
     Jaaley veyalaedentey,
     Vadili vellavae,
