@@ -2,7 +2,7 @@
 title: "The Inception & Evolution of the Institution called... Marriage"
 categories: ["Marriage"]
 date: 2019-09-21T20:00:36+05:30
-publishdate: 2019-09-22T01:10:36+05:30
+# publishdate: 2019-09-22T01:10:36+05:30
 ---
 
 <center>
@@ -10,9 +10,9 @@ publishdate: 2019-09-22T01:10:36+05:30
 <p style="text-align: right"><i>- Jon Kabbat - Zinn</i></p>
 </center>
 
-Disclaimer: The following content is my theory on the titled subject of inception and evolution of marriage. Nothing written in here is intended to dishonor or disrespect any individual's or a group's views, thoughts or beliefs. I also have to mention that I haven't read / heard / viewed any existing material of any form about the subject as I myself was theorising the a possible course of the evolution of it. The main purpose of this material is to provide it's readers with a perspective or precisely my view / analysis of the subject.
+**Disclaimer**: The following content is my theory on the titled subject of inception and evolution of marriage. Nothing written in here is intended to dishonor or disrespect any individual's or a group's views, thoughts or beliefs. I also have to mention that I haven't read / heard / viewed any existing material of any form about the subject as I myself was theorising the a possible course of the evolution of it. The main purpose of this material is to provide it's readers with a perspective or precisely my view / analysis of the subject.
 
-Foreword: It is my sincere and humble request to the readers who starts reading the to please read and understand the article in it's totality and do not draw conclusions anytime before. As my friend said once, "*Bhavnaon ko Samjho, Shabdon main kya rakha hay!*", which means to understand what the writer is trying to convey (and what's there is mere sounds...).
+**Foreword**: It is my sincere and humble request to the readers who starts reading the to please read and understand the article in it's totality and do not draw conclusions anytime before. As my friend said once, "*Bhavnaon ko Samjho, Shabdon main kya rakha hay!*", which means to understand what the writer is trying to convey (and what's there is mere sounds...).
 
 ## The Inception
 
@@ -26,4 +26,4 @@ Thus incepted the concept of marriage (I ain't sure if that was they called it t
 
 ## The Evolution
 
-As they say that, "The first bike race happend when the second bike was made!", the Sapiens as a sign of awareness, incepted the already evolved method of evaluating choices by comparing into this branch of life. 
+As they say that, "The first bike race happend when the second bike was made!", the Sapiens as a sign of awareness, incepted the already evolved method of evaluating choices by comparing them, into this no more natural pair bonding. As soon as 
