@@ -3,7 +3,7 @@ title: "Frame of Reference"
 categories: ["Physics", "Science", "Philosophy", "Sanskrit"]
 date: 2015-09-26T08:00:36+05:30
 publishdate: 2018-09-26T09:00:36+05:30
-draft: False
+draft: "False"
 ---
 
 <!-- The following information is just a perspective or a school of thought that I've been having since quiet sometime now and I just want to share -->
