@@ -38,7 +38,7 @@ Now this above extended application of one concept triggered another one, Sir Is
 
 Also, there is a principle that we've learnt of, during our schooling, that "If a process of transformation from A to B takes more effort then the process of transformation from B to A takes very less effort" and this made me think if this is the reason why, it is comparatively easier to do drugs than to quitting it and so to get fat than to stay fit? but it doesn't end here.
 
-The other day, one of my friends asked me if I was wondering why is he so pessimistic? I replied him with this exact same thing as follows, "One of my childhood friends once said that 'Had we not been optimistic about flying, Aeroplanes wouldn't have been invented and had we not been pessimistic about it crashing, Parachutes wouldn't have been invented, So, I think both are just different schools of thought and are required but just in the right quantities". I started pondering upon it, wondering what does it mean by 'right quantities'?
+The other day, one of my friends asked me if I was wondering why is he so pessimistic? I replied him with this exact same thing as follows, "One of my childhood friends<sup>1</sup> once said that 'Had we not been optimistic about flying, Aeroplanes wouldn't have been invented and had we not been pessimistic about it crashing, Parachutes wouldn't have been invented, So, I think both are just different schools of thought and are required but just in the right quantities". I started pondering upon it, wondering what does it mean by 'right quantities'?
 
 In sanskrit, there's a saying that goes like ***"Ati sarvatra varjayeth!"***, meaning, *excess of anything should be avoided* or in other words even an excess of good is also bad.
 
@@ -52,7 +52,7 @@ While trying to pursue the meaning of 'right quantities', I stumbled upon the as
 
 (Bewildered? Worry not...)
 
-One day another friend of mine asked me to define time. I tried to start answering and realised not a word I had. I took time to think about it, how ironical?. I took two days and I realised and accepted that I was 18 (then) and do not even understand what time is? I met my friend and confessed. He explained it in just 5 words "Measure of Interval between Events". I started pondering upon his explanation and then is when I understood the concept of **frame of reference** and that, the Time that we're measuring globally is just one such reference, else how come Australia, Japan and USA are so close to each other by geographical distances and yet about a day apart by time. Almost all fundamental concepts are the resultants of such frames of reference. The directions that we have, starting with East, it is defined as the direction in which the Sun Rises and not the other way around, the direction opposite to that of the East is named as 'West', the direction to the left of East is termed as North and the remaining is South. But, how to determine the exact 'left' of East or about anything?
+One day another friend<sup>2</sup> of mine asked me to define time. I tried to start answering and realised not a word I had. I took time to think about it, how ironical?. I took two days and I realised and accepted that I was 18 (then) and do not even understand what time is? I met my friend and confessed. He explained it in just 5 words "Measure of Interval between Events". I started pondering upon his explanation and then is when I understood the concept of **frame of reference** and that, the Time that we're measuring globally is just one such reference, else how come Australia, Japan and USA are so close to each other by geographical distances and yet about a day apart by time. Almost all fundamental concepts are the resultants of such frames of reference. The directions that we have, starting with East, it is defined as the direction in which the Sun Rises and not the other way around, the direction opposite to that of the East is named as 'West', the direction to the left of East is termed as North and the remaining is South. But, how to determine the exact 'left' of East or about anything?
 
 I wonder, when the people who defined these conventions were defining the conventions, if something like the follows had happened,
 
@@ -78,13 +78,13 @@ After all, What is electricity, if not transfer of electrons (negatively charged
 
 But, how does negativity in us humans help us?
 
-My uncle said (couple of months prior to learning the definition of time), "It's definitely good to have fear for exams but only as much that it makes to attempt it properly, not more not less". Long after that, considering fear as a negative emotion, I felt that one also should be harsh to oneself just as much required to push ones boundaries by the day and criticise oneself just to improve up on but not a meaningless abasing / abusing of oneself.
+My uncle<sup>3</sup> said (couple of months prior to learning the definition of time), "It's definitely good to have fear for exams but only as much that it makes to attempt it properly, not more not less". Long after that, considering fear as a negative emotion, I felt that one also should be harsh to oneself just as much required to push ones boundaries by the day and criticise oneself just to improve up on but not a meaningless abasing / abusing of oneself.
 
 After all, had there been no friction being offered by copper wire, would there be a fuse?
 
 Summing up, just like, going to the gym or waking up early every in the morning offers decent friction but when overcomed makes us have more control over our own lives and the other side of the activites like doing drugs offer pretty less friction, making you drift faster away, losing control. Knowingly or unknowingly we've all been overcoming friction day-to-day in our lives, at least in our physical activities if not at anything else and just like we buy our footwear, looking the ones with more grip, we have to find activities to get more grip over our own lives and live every moment being entirely aware, making every choice and every decision willfully.
 
-As once my uncle said,
+As once my uncle<sup>4</sup> said during the holidays after my 10<sup>th</sup> grade,
 
 <center>
 <b><i>Do what ever you want in life but be responsible for all your deeds!</i></b>
@@ -92,4 +92,13 @@ As once my uncle said,
 
 Every morning, after having a hot cup of coffee, I head to work directly but today is a different day. Today, I head back to my place where I live, to write an article for my blog and leaving for work now.
 
+<hr>
+
+<sup>1</sup> Karthikeya GVSS
+
+<sup>2</sup> Bharat Krishna Teja
+
+<sup>3</sup> Srinivas Adiraju
+
+<sup>4</sup> Narayan P.V
 <!-- I have learnt sometime ago that I have somehow picked up this habbit of trying figure out the meanings of concepts and terms / words from my experiences itself or from the context of their usage, respectively. -->
