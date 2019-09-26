@@ -1,8 +1,8 @@
 ---
 title: "Frame of Reference"
 categories: ["Physics", "Science", "Philosophy", "Sanskrit"]
-date: 2015-09-26T08:00:36+05:30
-publishdate: 2018-09-26T09:00:36+05:30
+date: 2019-09-26T08:00:36+05:30
+publishdate: 2019-09-26T09:00:36+05:30
 draft: "False"
 ---
 
