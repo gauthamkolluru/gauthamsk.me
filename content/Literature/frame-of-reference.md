@@ -54,7 +54,7 @@ While trying to pursue the meaning of 'right quantities', I stumbled upon the as
 
 One day another friend<sup>2</sup> of mine asked me to define time. I tried to start answering and realised not a word I had. I took time to think about it, how ironical?. I took two days and I realised and accepted that I was 18 (then) and do not even understand what time is? I met my friend and confessed. He explained it in just 5 words "Measure of Interval between Events". I started pondering upon his explanation and then is when I understood the concept of **frame of reference** and that, the Time that we're measuring globally is just one such reference, else how come Australia, Japan and USA are so close to each other by geographical distances and yet about a day apart by time. Almost all fundamental concepts are the resultants of such frames of reference. The directions that we have, starting with East, it is defined as the direction in which the Sun Rises and not the other way around, the direction opposite to that of the East is named as 'West', the direction to the left of East is termed as North and the remaining is South. But, how to determine the exact 'left' of East or about anything?
 
-I wonder, when the people who defined these conventions were defining the conventions, if something like the follows had happened,
+I wonder, when, the people (who defined these conventions) were defining them, if something like the following has happened,
 
     People defining conventions: "Which side of the body you all most use?"
 
@@ -70,7 +70,7 @@ I wonder, when the people who defined these conventions were defining the conven
 
     People defining conventions: "What the fff...Frame of Reference!!!"
 
-and then we have our "Right and Left" with more than one meaning attached to each which can be deciphered according to the context they are used in, which again is just another frame of reference. This concept of "frame of reference" came into the picture while figuring out the concept of "Right Quantities", which means to find the quantities with reference to the situation / requirement. Just like, hundreds of thousands of volts of electricity is required to be produced at the power plants to be able to power the our houses at 220V / 110V. Just like, 220V voltage required for your refrigerator but only 10V is required by your mobile phone.
+and then we have our "Right and Left" sides with more than one meaning attached to each which can be deciphered according to the context they are used in, which again is just another frame of reference. This concept of "frame of reference" came into the picture while figuring out the concept of "Right Quantities", which means to find the quantities with reference to the situation / requirement. Just like, hundreds of thousands of volts of electricity is required to be produced at the power plants to be able to power the our houses at 220V / 110V. Just like, 220V voltage required for your refrigerator but only 10V is required by your mobile phone.
 
 I then realised that ideas like large and small are understood only with reference to something and do not carry a definition of their own. So does other similar ideas like positive & negative, right & wrong, good & bad / evil. They are just the results of some frame of references.
 
