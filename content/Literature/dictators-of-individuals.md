@@ -3,7 +3,7 @@ title: "Dictators of  Every Being"
 categories: ["Analysis"]
 date: 2019-10-06T19:00:36+05:30
 publishdate: 2019-10-06T20:00:36+05:30
-draft: True
+draft: False
 ---
 
 Starting with a confession, I have an obsession for coffee and Coffeeshops. It had made me shed a couple of bucks (not just a couple you know!) but also helped me learning / understanding a couple of things (apart from i'm running out of money at the end if the month :-P).
@@ -50,3 +50,5 @@ Only if we could properly tame and train it, 'Fear', so that, it stays strong en
 To do so, all i can think of is feeding it consciously, when to feed and when to stop.
 
 After all, the courage of driving and the fear of falling both are actively present in every safe rides or drives that we do.
+
+P.S: In the video linked above, the speaker has suggested a recommendable and easily appliable way of feeding the Fear rightly. I suggest to watch it till the end.
