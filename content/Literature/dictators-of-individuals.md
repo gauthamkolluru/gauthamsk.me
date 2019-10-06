@@ -39,15 +39,15 @@ It is that factor of fear, that has been the defence mechanism for most beings b
 
 A snake bites in fear, a frog and some other aquatic species (Octopus or Jelly Fish, I'm not sure) urinate poison in fear also some other species do the same in reaction to the same. But the point here is, the dog that just passed through that seemingly not passable grills is out of that same factor, Fear.
 
-Then, I realised that, 'Fear' isn't factor but governs but 'Dictates' us.
+Then, I realised that, 'Fear' isn't factor that governs but 'Dictates' us.
 
-Only if we could properly tame and train it, 'Fear', so that, it stays strong enough yet not as strong as it starts dominating other factors, we could do a lot more than what we've been doing hitertho.
+Only if we could properly tame and train it, 'Fear', so that, it stays strong enough to put us on our toes yet not as strong as it starts dominating other factors, we could do a lot more than what we've been doing hitertho.
 
 <center>
 <i>Fear not to feed it but to over empower it!</i>
 </center>
 
-To do so, all i can think of is feeding it consciously, when to feed and when to stop.
+To do so, all i can think of is feeding it consciously, knowling when to feed and when to stop.
 
 After all, the courage of driving and the fear of falling both are actively present in every safe rides or drives that we do.
 
