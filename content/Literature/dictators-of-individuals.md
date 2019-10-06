@@ -49,6 +49,8 @@ Only if we could properly tame and train it, 'Fear', so that, it stays strong en
 
 To do so, all i can think of is feeding it consciously, knowling when to feed and when to stop.
 
-After all, the courage of driving and the fear of falling both are actively present in every safe rides or drives that we do.
+After all, the courage of standing and the fear of falling that is keeping us moving...
 
-P.S: In the video linked above, the speaker has suggested a recommendable and easily appliable way of feeding the Fear rightly. I suggest to watch it till the end.
+P.S: In the video linked above, the speaker has suggested a recommendable and easily appliable way of feeding the Fear rightly. I suggest to watch it till the end and try implementing from today. 
+
+You know, not *today* today... ;-)
