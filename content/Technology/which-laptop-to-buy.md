@@ -123,6 +123,7 @@ Finally, all I suggest is, identify your use case, basing on which, decide the o
 
 <center>
     <b>Operating System > Processor (Core i7 > Core i5 > Core i3) > HDD (SDD > @ 7200 rpm > @ 5400 rpm)</b>
+    <embed src="https://youtu.be/9iHlfRFIR3Q" autostart="false" height="30" width="144">
 </center>
 
 <!-- Things I didn't like about Windows OS (Vista, 8 and 8.1 versions I hated though) -->
