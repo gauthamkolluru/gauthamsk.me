@@ -123,7 +123,14 @@ Finally, all I suggest is, identify your use case, basing on which, decide the o
 
 <center>
     <b>Operating System > Processor (Core i7 > Core i5 > Core i3) > HDD (SDD > @ 7200 rpm > @ 5400 rpm)</b>
-    <embed src="https://youtu.be/9iHlfRFIR3Q" autostart="false" height="30" width="144">
+    <br>
+    <br>
+    <embed src="https://youtu.be/9iFlfRFIR3Q" autostart="false" height="30" width="144">
+    <br>
+    <br>
+    <video height="240" width="320" controls>
+        <source src="https://youtu.be/9iFlfRFIR3Q">
+    </video>
 </center>
 
 <!-- Things I didn't like about Windows OS (Vista, 8 and 8.1 versions I hated though) -->
