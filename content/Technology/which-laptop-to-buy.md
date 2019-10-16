@@ -125,11 +125,10 @@ Finally, all I suggest is, identify your use case, basing on which, decide the o
     <b>Operating System > Processor (Core i7 > Core i5 > Core i3) > HDD (SDD > @ 7200 rpm > @ 5400 rpm)</b>
     <br>
     <br>
-    <embed src="https://youtu.be/9iFlfRFIR3Q" autostart="false" height="30" width="144">
     <br>
     <br>
     <video height="240" width="320" controls>
-        <source src="https://youtu.be/9iFlfRFIR3Q">
+        <source src="https://youtu.be/2-klA62Xl9o">
     </video>
 </center>
 
