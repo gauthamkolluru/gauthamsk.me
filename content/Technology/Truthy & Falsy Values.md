@@ -2,7 +2,7 @@
 title: "Truthy & Falsy Values"
 categories: ["Python"]
 date: 2019-10-17T16:34:00+05:30
-publishdate: 2019-10-17T10:01:40+05:30
+publishdate: 2019-10-17T07:01:40+05:30
 draft: False
 ---
 
