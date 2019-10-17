@@ -115,6 +115,6 @@ if 1 < 0:
 
 ```
 
-Video on Youtube: [![png](/img/Truthy-and-Falsy-values)](https://youtu.be/wet9W3I1OGk)
+Video on Youtube: [![png](/img/Truthy-and-Falsy-values.png)](https://youtu.be/wet9W3I1OGk)
 
 Youtube channel: [Gautham S Kolluru](https://www.youtube.com/channel/UCWeOiQJHuUvcwR8Us5iVnAA?view_as=subscriber)
