@@ -40,7 +40,7 @@ source_directory = '/home/gautham/Downloads/'
 
 The next important step is to create directory for saving each type of files. we are free to choose the locations where we create these directories and the naming conventions for each directories. All that we should keep in mind is to make wise choice for the directories names that we wouldn't forget and regret down the lane. Below is the image of the directories that I've created and their names.
 
-![directory-names](/img/directories-for-file-segregation.png)
+![directory-names](/img/folders-for-file-segregation.png)
 
 Next up is creating a [dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) of the destination directories, where, the keys will be a [tuple](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences) all the related extensions of a particular type of file and the values to each key would be the path to that corresponding directory as a [String](https://youtu.be/AgvV-bfWzro). (See the below code for reference)
 
