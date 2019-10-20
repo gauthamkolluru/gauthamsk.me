@@ -6,13 +6,13 @@ publishdate: 2019-10-20T18:00:40+05:30
 draft: False
 ---
 
-One of the important reasons why I wanted to learn [Python](https://www.python.org) was to be able to do something that would help me directly. By directly, I mean, writing a program that could help me in my day-to-day life, automating some trivial tasks that I (and I guess, most of us as well) do. When I was learning C programming, I thought, if I become good with it, I could get a job that would pay me salary, which would eventually help me but that I seem to mean by not directly. When I was learning Java, I hadn't even thought of "if I became good with it". I realised that I'm not even that bad with Java when I was able to help some UG students from USA and Singapore with their assignments while with [Chegg](https://www.chegg.com) as a part-time tutor.
+One of the important reasons why I wanted to learn [Python](https://www.python.org) was to be able to do something that would help me directly. By directly, I mean, writing a program that could help me in my day-to-day life, automating some trivial tasks that I (and I guess, most of us as well) do. When I was learning C programming, I thought, if I become good with it, I could get a job that would pay me salary, which would eventually help me and by that I seem to mean not directly. When I was learning Java, I hadn't even thought of "if I became good with it". Then I realised that I'm not even that bad with Java when I was able to help some UG students with their assignments while working with [Chegg](https://www.chegg.com) as a part-time tutor.
 
-Coming back to the topic at hand, We often download lots of content from the internet, be it bank statements, movies, mp3s, ebooks, softwares, etcetera, etcetera, etc... So, during course of time, our Downloads directory gets clogged with a lots of varieties of files which makes it next to impossible if we have to find a file from that long list of files and directories. That is one of the most important reasons for us in procastinating tasks that involve finding files from that clog.
+Coming back to the matter at hand, We often download lots of content from the internet, be it bank statements, movies, mp3s, ebooks, softwares, etcetera, etcetera, etc... So, during course of time, our Downloads directory gets clogged with a lots of varieties of files which makes it next to impossible if we have to find a file from that long list of files and directories. That is one of the most important reasons for us in procastinating tasks that involve finding files from that clog.
 
 Therefore, the first task that I wanted to automate with python was to write a file-segregator. A program, that moves all the 'pdf's, 'mp3's, 'mp4', word documents, text files, spreadsheets, softwares and more, into their dedicated directories and that too, whenever I turn my laptop on, this segregation happens completely automatically. If I want to find any file next time, I just have to find for it in its deidcated directory, making it both easier and simpler.
 
-Here, I'm going to explain what I have done so that, with minimal modifications, even we'll be able to implement it in our computers and get a bit relaxed.
+Here, I'm going to explain what I have done so that, with minimal modifications, even you'll be able to implement it in your computers and get a bit relaxed.
 
 So, here we go...
 
@@ -62,7 +62,7 @@ destination_directories = {
 Now comes the heart or brain of the program. First, we shall look at each line of the code and what it is doing and then the complete code put together.
 
 ```python
-for abs_path,sub_dirs,file_names in os.walk(source_folder):
+for abs_path,sub_dirs,file_names in os.walk(source_directory):
 ```
 
 In the above line, the **os.walk()** method returns a [generator](https://docs.python.org/3/c-api/gen.html?highlight=generator) object that returns the 3 values at each iteration,
