@@ -12,11 +12,11 @@ Therefore, I decided, to keep myself restricted of the options that my (mental) 
 
 > Note: I took the basic idea of what to do from the above mentioned blog and customised for my requirements which we shall look into. Again, I'll take a line by line approach.
 
-\newpage
+<!-- \newpage
 
 \tableofcontents
 
-\newpage
+\newpage -->
 
 ## Requirements
 
@@ -125,7 +125,9 @@ with open(hosts_path, 'r+') as file_ob:
     file_ob.truncate()
 ```
 
-Youtube Playlist for [Programming in Python](https://www.youtube.com/playlist?list=PLA5TLVwPYW19RAGiGfmoeGq1CxbqyR8iQ)
+## Youtube Playlist
+
+- [Programming in Python](https://www.youtube.com/playlist?list=PLA5TLVwPYW19RAGiGfmoeGq1CxbqyR8iQ)
 
 ## Github Link to the script
 
