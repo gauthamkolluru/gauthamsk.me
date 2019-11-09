@@ -13,7 +13,7 @@ draft: True
 
 **Disclaimer**: The following content is my theory on the titled subject of inception and evolution of marriage. Nothing written in here is intended to dishonor or disrespect any individual's or a group's views, thoughts or beliefs. I also have to mention that I haven't read / heard / viewed any existing material of any form about the subject as I myself was theorising the a possible course of the evolution of it. The main purpose of this material is to provide it's readers with a perspective or precisely my view / analysis of the subject.
 
-**Foreword**: It is my sincere and humble request to the readers who starts reading the to please read and understand the article in it's totality and do not draw conclusions anytime before. As my friend said once, "*Bhavnaon ko Samjho, Shabdon main kya rakha hay!*", which means to understand what the writer is trying to convey (and what's there is mere sounds...).
+**Foreword**: It is my sincere and humble request to the readers who starts reading the to please read and understand the article in it's totality and do not draw conclusions anytime before. As my friend used to say, "*Bhavnaon ko Samjho, Shabdon main kya rakha hay!*", which means to understand what the writer is trying to convey (and what's there is mere sounds...).
 
 ## The Inception
 
