@@ -6,8 +6,6 @@ publishdate: 2019-12-15T18:00:40+05:30
 draft: false
 ---
 
-# Automation Series - Article 3: A Simple Personal Password Manager with Encryption
-
 Below is the code for a simple password manager for personal use with encryption for those who want to store all your passwords hassle free, without spending a penny. This is just 1.0 version of this task. ` `  ` Version 2.0 `  ` ` in under development and the strategy will be almost completely different from this one. This is just a beginning.
 
 ### Details of the Development Environment
