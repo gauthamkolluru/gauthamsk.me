@@ -54,7 +54,7 @@ Hoping that you've understood the problem, let's now get into solving it.
 
 We've to write a function that takes in the change that has to be given back to the customer and returns the **number of coins** to return.
 
-``` python
+```python
 def coins_change(amount):
     # Calculation comes here
     return no_of_coins
@@ -66,7 +66,7 @@ For this, I felt like having a dictionary with the denominations of the coins as
 
 This data structure can be created within or outside the function as it doesn't matter much for our current scenario and I have just assumed some numbers for coins available for each denomination
 
-``` python
+```python
 def coins_change(amount):
     denominations = {50:5, 25:5, 5:10, 1:20}
     # Calculation comes here
@@ -81,7 +81,7 @@ Now the key part starts. From the number of coins available of each denomination
 
 => We've to read the keys of the dictionary in a descending order format.
 
-``` python
+```python
 def coins_change(amount):
     denominations = {50:5, 25:5, 5:10, 1:20}
     for denomination in sorted(denominations, reverse = True):
@@ -95,7 +95,7 @@ Therefore, we've to first check if that `amount` (the change we've to return) is
 
 If `false` , go to the next denomination, else
 
-``` python
+```python
 def coins_change(amount):
     coins_draw = {50:5, 25:5, 5:10, 1:20}
     for denomination in sorted(denominations, reverse = True):
@@ -110,14 +110,14 @@ As per the scenario above, the shopkeeper has to return 85 paise to you.
 
 The first available denomination is, **50 paise** but we want to know the number of coins of 50 paise to return and this will be given by the **Floor Division** ( `//` ) operator.
 
-``` python
+```python
 >>>85 // 50
 1
 ```
 
 and the remaining change to be given is determined by the **Modulo** ( `%` ) operator.
 
-``` python
+```python
 >>>85 % 50
 35
 ```
@@ -128,7 +128,7 @@ Recursion is a method where, if in a `function` definition, say, `func()` , if y
 
 Don't worry about the definition above but just try to look into the example below and try to fathom.
 
-``` python
+```python
 def coins_change(amount):
     coins_draw = {50:5, 25:5, 5:10, 1:20}
     for denomination in sorted(denominations, reverse = True):
@@ -141,7 +141,7 @@ def coins_change(amount):
 
 => after checking the condition below:
 
-``` python
+```python
 if amount >= denomination:
 ```
 
@@ -149,7 +149,7 @@ We're checking if enough coins of `denomination` at hand would clear the amount 
 
 If the the change to be returned is 50 paise then 1 of the 50 paise coins should be enough to be returned right? So, to check this, we use the **Modulo** `(%)` operator.
 
-``` python
+```python
 if amount % denomination:
 ```
 
@@ -157,7 +157,7 @@ we are just calculating the number of coins of the current `denomination` that w
 
 Ex: As with the case that we've been looking into, since we've to get 85 paise back, 
 
-``` python
+```python
 (amount // denomination) # This will determine that 1 of 50 paise coins have to be given and
 
 amount - ((amount // denomination) * denomination)
@@ -203,7 +203,7 @@ and now, the value **10** is passed to our function and again it checks
 
 but only this time, `amount % denomination` will be `0` , as `10 % 10` gives no remainde and therefore, the recursion stops as we've included the conditon that says
 
-``` python
+```python
 if amount % denomination: # this condition will return `False` 
     return amount // denomination # and therefore, this statement gets executed
 ```
@@ -214,7 +214,7 @@ And this is how **Recursion** is implemented.
 
 and here is the complete working code:
 
-``` python
+```python
 def change_coins(amount=None):
     denominations = {50: 5, 25: 5, 5: 10, 1: 20}
     if amount:
