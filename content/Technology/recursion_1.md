@@ -50,8 +50,6 @@ Hoping that you've understood the problem, let's now get into solving it.
 
 ### Algorithmic Approach Towards Solution
 
-#### Step 1
-
 We've to write a function that takes in the change that has to be given back to the customer and returns the **number of coins** to return.
 
 ```python
