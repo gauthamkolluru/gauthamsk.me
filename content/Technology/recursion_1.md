@@ -212,4 +212,18 @@ which finally results in, 1 (of 50 paise coin) + 1 (of 25 paise coin) + 2 of (of
 
 And this is how **Recursion** is implemented.
 
+and here is the complete working code:
+
+``` python
+def change_coins(amount=None):
+    denominations = {50: 5, 25: 5, 5: 10, 1: 20}
+    if amount:
+        for denomination in sorted(denominations, reverse=True):
+            if amount >= denomination:
+                if amount % denomination:
+                    return (amount // denomination) + change_coins(amount - ((amount // denomination) * denomination))
+                else:
+                    return amount // denomination
+```
+
 Please comment below if you have any doubts or reach me [here](https://gauthamsk.me/contact-me/)
