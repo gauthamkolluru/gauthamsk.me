@@ -32,9 +32,9 @@ We know that, he has to return 85 paise (100 - 99.15) but (assume) we have only 
 
 We have to calculate the number of coins that the shopkeeper has to return to return the exact change. As per the premise above, the shopkeeper has to return:
 
-* 1 of 0.50 paise coin
-* 1 of 0.25 paise coin
-* 2 of 0.05 paise coin
+* 1 of 50 paise coin
+* 1 of 25 paise coin
+* 2 of 05 paise coin
 
 => a total of **4 coins**.
 
@@ -213,3 +213,5 @@ def change_coins(amount=None):
 ```
 
 Please comment below in case of any doubts or if you like or dislike the article or reach me [here](https://gauthamsk.me/contact-me/)
+
+[^note]: a symbol meaning `implies`
