@@ -3,7 +3,7 @@ title: "Windows to Linux to Windows"
 categories: ["Linux", "Windows", "MacOS", "Operating Systems"]
 tags: ["Linux", "Windows", "MacOS", "Operating Systems", "Apple", "Microsoft"]
 date: 2020-01-30T18:26:00+05:30
-publishdate: 2019-01-30T20:00:36+05:30
+publishdate: 2020-01-30T20:00:36+05:30
 draft: false
 ---
 
