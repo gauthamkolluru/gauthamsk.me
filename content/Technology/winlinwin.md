@@ -1,5 +1,5 @@
 ---
-title: "Windows to Linux to Windows"
+title: "Windows vs MacOS vs Linux"
 categories: ["Linux", "Windows", "MacOS", "Operating Systems"]
 tags: ["Linux", "Windows", "MacOS", "Operating Systems", "Apple", "Microsoft"]
 date: 2020-01-30T18:26:00+05:30
