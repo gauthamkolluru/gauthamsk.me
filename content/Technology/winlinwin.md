@@ -9,15 +9,15 @@ draft: false
 
 ## Purpose
 
-This article is an attempt to constructively critise the different operating systems that I have used by far & going to primarily reflect _my opinions and experiences_ with them. I also expect that the _naive/ameture/beginner_ programmers among you who are planning to buy a new computer or to switch to a new OS and feels like they have a similar taste like me, should be benefitted.
+This article is an attempt to compare the features (that mattered the most to me as Consumer / Developer) between the most preferred __Operating Systems__ for desktop/laptop computers and present my opinion on them.
 
-_Also, I would like to specially mention once again that the comments that I make on an OS are just my opinions and is not intended to defame or abase a Person, Team, Product or an Organisation._
+I'm sure that this could benefit all those _naive/ameture/beginner_ programmers among you who are planning to buy a new computer or to switch to a new OS.
+
+_I would like to explicitly mention once again through this article that I'm trying to just express my opinions of the subject and does not intend to abuse, abase, belittle (or any of their synonyms) any Person, Team, Product or an Organisation._
 
 ## Why am I Penning this down? Or maybe 'Key'-ing this down ??
 
-It's been long since I had a longing for writing something down, even by my own standards, about around 2 months. It definitely hasn't been because of running out of topics, infact I have about 3-4 articles left incomplete and about half-a-dozen in the pipeline that I haven't started yet. I haven't had the mood of writing something down during this while. Until now I attributed that to the changes taking place in my life but now I ain't sure. And just a while ago, a thought struck me that, It is since then when I started using my Organisation laptop that this had been happening... 
-
-Therefore, here I come, with this article with the aforementioned thought, sharing purely __my opinions__ on the Operating Systems and their versions that I have worked with.
+It's been long since I had a longing for writing something down, about around 2 months. It is really long even by my own standards. It definitely wasn't because of me running out of topics, on the contrary I have about 3-4 articles left incomplete and about half-a-dozen in the pipeline that I haven't even started yet. I haven't had the mood of writing something down during this while. Until now I attributed that to the changes taking place in my life but now I ain't sure. And just a while ago, a thought struck me that, It is since then when I started using my office laptop running on _Windows 10_ that this has been happening... and I sincerely think, the OS has some effect on me. So, let's see... 
 
 ## Operating systems, Versions & My Acquaintences
 
@@ -25,28 +25,30 @@ Therefore, here I come, with this article with the aforementioned thought, shari
 <p><i>Do More With Less - The principle that I tend to follow</i></p>
 </center>
 
-### Windows
+### Windows : 95 to 10
 
-The year that I touched a computer for the first time goes way back in history for about 2 decades when I was studying my 5th grade and was introduced to programming on [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language. The computers in lab of the school were powered by __Windows 95__ operating system. Forget about _Linux_, _Mac_ or any others, as I barely knew the term 'Operating Systems' itself and that Windows 95 was an operating system after all. For all I knew, it was just a __Windows Computer__, whatever that meant.
+The year that I touched a computer for the first time goes way back in history for about 2 decades when I was studying my 5th grade and was introduced to programming on [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language. The computers in lab of the school were powered by __Windows 95__ operating system. Forget about _Linux_, _Mac_ or any others, as I barely knew the term 'Operating Systems' itself. For all I knew, it was just a __Windows Computer__, whatever that meant.
 
-* Things I used Windows 95 for
+* Things I used __Windows 95__ for
     - BASIC (both Noun & adjective, in this context) Programming
     - Playing [_Sky Roads_](https://www.youtube.com/watch?v=CJjSRyE6PzQ) (click on the link to check how the game looks like)
-    - Dealing with the _all mighty & legandary_ __Blue Screen Errors__ (took quiet a while to understand that they are what called RAM errors)
+    - Dealing with the _all mighty & legandary_ __Blue Screen (RAM) Errors__
 
 Since then, as the years passed by, I had been experiencing differnt versions of Windows like 98, 2000<sup>NT</sup>, XP, 7 and currently have __Windows 10__ installed in my office laptop.
 
-However, none of the versions until __Windows 7__ (and later) were able to fight the _Darth Vader_ of Microsoft's operating systems, the __Blue Screen (RAM) Errors__[^note1].
+### Mac OS : Snow Leapord to High Sierra
 
-### Mac OS
+My experience with Mac OS though included a considerable learning curve, it had been a breeze ever since. The eco-system that it provided along with iPhone and iPad that I had, it was kind of a cake walk while switching between devices with Apple's _Continuity_ feature. I feel that that is the best _match made in heaven_ ever between the hardware and the software.
 
-I have used all versions of Mac OS from _Snow Leapord_ till _High Sierra_. My experience with Mac OS though included a considerable learning curve, it had been a breeze ever since. And the eco-system that it provided along with iPhone and iPad that I had, it was kind of a cake walk while switching between devices with Apple's _Continuity_ feature. Also, I must say that it was _literally_ an investment as it paid for itself later on and practically transitioned from a liability to an asset as I got some gigs as a part-time video editor and that I did just with the built-in software, the _iMovie_. I still feel that it was the best _match made in heaven_ ever between the hardware and software. That machine hosted the best displays that I had ever seen on any computer till then and it doesn't stop just there, the _speed_, the _reliability_ (the RAM errors on Windows were already a history), the speaker setup and what not. And all of it contributed towards delivering the best experience I could get of a laptop. Period.
+That machine hosted the best displays that I had ever seen on any computer till then and it doesn't stop just there, the _speed_, the _reliability_, the speaker setup and what not, everything was just best in class. And all of it contributed towards delivering the best experience I could ever get of a laptop. Period.
 
-I just wrote a max of a couple of hundreds of lines of code on the machine though. I gave up the machine soon I joined an organisation which required me working on Microsoft's SQL Server which I wasn't able to figure-out how to install in the machine._Yes, I was that naive (or maybe the right word should be *stupid*) back then_.
+I hardly wrote a couple of hundreds of lines of code while using it and therefore do not want to comment anything on the development experience that it would offer. I gave up the machine soon I joined an organisation which required me working on Microsoft's SQL Server which I wasn't able to figure-out how to install it in the machine (_Yes, I was that naive (or maybe the right word should be stupid) back then_).
 
-### Linux
+### Linux : Ubuntu (16 to 18) & Linuxmint Cinnamon (19.1 (Tessa) to 19.3 (Tricia))
 
-In January 2018, I forced myself to use [Linuxmint](https://www.linuxmint.com) with [Cinnamon (64 Bit)](https://www.linuxmint.com/edition.php?id=274) flavor despite having an Activated version of Windows 10 installed on my machine for the reasons that
+#### Switching
+
+In January 2018, I forced myself to use [Linuxmint](https://www.linuxmint.com) with [Cinnamon (64 Bit)](https://www.linuxmint.com/edition.php?id=274) flavor despite having an Activated version of Windows 10 installed on my machine for the reasons that, 
 
 * with _Windows 10_
     - I observed a lot of lag while invoking & using applications like
@@ -58,7 +60,7 @@ In January 2018, I forced myself to use [Linuxmint](https://www.linuxmint.com) w
 
 * with _Linux_
     - Undeniably the greatest advantage is, it being distributed for absolutely no cost (apart from some versions like RedHat)
-        - with all those different versions and flavors available, one has the widest range of options to choose from (Ex: Debain, Ubuntu, Xubuntu, Kubuntu, CentOS, Fedora, ElementaryOS, Kali, etc...)
+        - with all those different versions and flavors available, one has the widest range of options to choose from (Ex: _Debain, Ubuntu, Xubuntu, Kubuntu, CentOS, Fedora, ElementaryOS, Kali, etc..._)
     - Virus Free when compared to Windows OS, and finally
     - The fact that it comes with the captions like _"May the Source be with You"_ (Open Source), got me a little excited. (Though it might be something that I maybe able to handle only in the future)
 
@@ -67,6 +69,8 @@ In January 2018, I forced myself to use [Linuxmint](https://www.linuxmint.com) w
 * Linux is the platform that offered the steepest learning curve among the OSs I've used by far (or atleast I felt so)
     - after all, choosing the version and the flavor itself took a good 2-3 months of analysis
 * Nothing was a cake walk initially, not even adding an application to the system path just to be able to invoke it from the terminal
+
+#### Benefits
 
 Yet the OS managed to keep me captivated by the immidiately improved boot up speeds and application invoking speeds for Pycharm and Chrome and when I checked under system moniter application (haven't heard of `top` command by then), 
 
@@ -77,18 +81,18 @@ Yet the OS managed to keep me captivated by the immidiately improved boot up spe
 And these statistics, led me to learn more on being able to use the OS in better ways and started looking out for blogs for my needs and I'm overwhelmed by the number blogs I came across then that have a rich content addressing the issues that I was looking out for apart from the outstanding _Community Support_.
 
 <center>
-<p><b>A Big Shoutout to all those Open Source Contributors</b></p>
+<p><b>A Big Shoutout to all those Open Source Contributors out there!</b></p>
 </center>
 
 ## Applications I run in My Computer
 
 When I learnt from my mentor that he used to use the Terminal (on Linux) window itself to even check his emails, I really admired the capability of both my mentor and his tool. And when I observed him taking notes in the terminal, I thought that even I should be able to do that.
 
-Now, even I use ViM on my Terminal though only for quick/short code debugs or edits and consider myself a novice at ViM, I use the terminal most of the time for invoking applications, running my personal automation scripts (which can be found [here](https://gauthamsk.me/technology/))
+Now, even I use Vim on my Terminal though only for quick/short code debugs or edits and consider myself a novice at it, I use the terminal most of the time for invoking applications, running my personal automation scripts (which can be found [here](https://gauthamsk.me/technology/))
 
-However, I have recently decided to learn to use VSCode like the expert ViM users (like my mentor) as VSCode practically has the capability to support as much, making the only difference between the tools confine to the fact that ViM is a `Terminal` based editor and `VSCode` is not.
+However, I have recently decided to learn to use VSCode like the expert Vim users (like my mentor) as VSCode practically has the capability to support as much, making the only difference between the tools confine to the fact that Vim is a `Terminal` based editor and `VSCode` is not.
 
-`ViM` users may not need to leave the `Terminal` ever and `VSCode` users may not need to leave the `Code` ever!
+`Vim` users may not need to leave the `Terminal` ever and `VSCode` users may not need to leave the `Code` ever!
 
 Along with VSCode, below are the list of applications that I most often use on my machine.
 
@@ -103,7 +107,7 @@ Along with VSCode, below are the list of applications that I most often use on m
 
 * __Editors__
     - Visual Studio Code (VSCode) : My most favourite Code Editor by far
-    - ViM
+    - Vim
     - Anaconda (Mainly Jupyter & IPython)
 
 * __Integrated Development Environments (IDE)__
@@ -152,6 +156,4 @@ After all the analysis and the fact that I actually feel that _Linux_ is the OS 
 I somehow feel that _Windows_ isn't an operating system for professionals like coders or artistis and therefore would recommend to prefer it for those machines that will be consumed by the non-technical folks around you as it is the system that has the least learning curve. Also, it is again an undeniable fact that most of the computers on the planet are currently powered by it. So, if the non-techies want to use a machine at an airport lounge, they can confidently do so.
 
 P. S : I'm currently at the stage of buying a new computer for my personal use and 'key'-ing this down has helped me in analysing a couple more aspects thereby narrowing down my search further. Therefore I would update it here as & when I buy any new machines in the future.
-
-[^note1]: By then I was feeling like a computer is not a computer if it doesn't throw the __*Blue Screen*__ error every now and then.
 
