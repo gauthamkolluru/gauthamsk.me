@@ -109,7 +109,6 @@ Along with VSCode, below are the list of applications that I most often use on m
 * __Integrated Development Environments (IDE)__
     - Pycharm
 
-
 ## Things I hate about each OS
 
 ### Windows
@@ -153,8 +152,6 @@ After all the analysis and the fact that I actually feel that _Linux_ is the OS 
 I somehow feel that _Windows_ isn't an operating system for professionals like coders or artistis and therefore would recommend to prefer it for those machines that will be consumed by the non-technical folks around you as it is the system that has the least learning curve. Also, it is again an undeniable fact that most of the computers on the planet are currently powered by it. So, if the non-techies want to use a machine at an airport lounge, they can confidently do so.
 
 P. S : I'm currently at the stage of buying a new computer for my personal use and 'key'-ing this down has helped me in analysing a couple more aspects thereby narrowing down my search further. Therefore I would update it here as & when I buy any new machines in the future.
-
----
 
 [^note1]: By then I was feeling like a computer is not a computer if it doesn't throw the __*Blue Screen*__ error every now and then.
 
