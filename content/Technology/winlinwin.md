@@ -9,17 +9,19 @@ draft: false
 
 ## Purpose
 
-This article is an attempt to compare the features (that mattered the most to me as Consumer / Developer) between the most preferred __Operating Systems__ for desktop/laptop computers and present my opinion on them.
+This article is an attempt to compare the features (that mattered the most to _me_ as Consumer / Developer) among the most preferred __Operating Systems__ for desktop/laptop computers and share my opinions on them.
 
-I'm sure that this could benefit all those _naive/ameture/beginner_ programmers among you who are planning to buy a new computer or to switch to a new OS.
+I'm sure that this could benefit all those _naive/ameture/beginner_ programmers among you who are planning to buy a new computer or to switch/try to a new OS.
 
-_I would like to explicitly mention once again through this article that I'm trying to just express my opinions of the subject and does not intend to abuse, abase, belittle (or any of their synonyms) any Person, Team, Product or an Organisation._
+_I would like to explicitly mention once again that through this article I'm just trying to express my opinions of the subject and does not intend to abuse, abase, belittle (or any of their synonyms) any Person, Team, Product or an Organisation._
 
-## Why am I Penning this down? Or maybe 'Key'-ing this down ??
+## Why am I Penning this down? Or maybe 'Key'-ing this down??
 
-It's been long since I had a longing for writing something down, about around 2 months. It is really long even by my own standards. It definitely wasn't because of me running out of topics, on the contrary I have about 3-4 articles left incomplete and about half-a-dozen in the pipeline that I haven't even started yet. I haven't had the mood of writing something down during this while. Until now I attributed that to the changes taking place in my life but now I ain't sure. And just a while ago, a thought struck me that, It is since then when I started using my office laptop running on _Windows 10_ that this has been happening... and I sincerely think, the OS has some effect on me. So, let's see... 
+It's been long since I had a longing for writing something down, about around 2 months. It definitely wasn't because of me, running out of topics. On the contrary I have about 3-4 articles left half way through and about half-a-dozen in the pipeline that I'm yet to start. It is that that I haven't had the mood of writing something down this while. Until now, I attributed that to the changes taking place in my life. Just, a while ago, a thought struck me that, It is since then when I started using my office laptop running on _Windows 10_ that this has been happening... and I sincerely think, the OS has some effect on me. I have worked with a variety of Operating Systems (versions and flavours) by far and during the course of this experience, I have developed some taste on certain aspects of them.
 
-## Operating systems, Versions & My Acquaintences
+These machines practically bring bread and butter to the table, of significant number of us and so, I think, it has to be encouraging us in being/getting more productive. With this idea in mind, let's look into the varied systems that I've used and which enouraged me more.
+
+## Operating Systems (OS), Versions & My Acquaintences
 
 <center>
 <p><i>Do More With Less - The principle that I tend to follow</i></p>
@@ -40,7 +42,7 @@ Since then, as the years passed by, I had been experiencing differnt versions of
 
 My experience with Mac OS though included a considerable learning curve, it had been a breeze ever since. The eco-system that it provided along with iPhone and iPad that I had, it was kind of a cake walk while switching between devices with Apple's _Continuity_ feature. I feel that that is the best _match made in heaven_ ever between the hardware and the software.
 
-That machine hosted the best displays that I had ever seen on any computer till then and it doesn't stop just there, the _speed_, the _reliability_, the speaker setup and what not, everything was just best in class. And all of it contributed towards delivering the best experience I could ever get of a laptop. Period.
+That machine hosted the best displays that I had ever seen on any computer till then and it doesn't stop just there, the _speed_, the _reliability_, the speaker setup and what not, everything was just best in class. And all of which contributed towards delivering the best experience I could ever get of a laptop. Period.
 
 I hardly wrote a couple of hundreds of lines of code while using it and therefore do not want to comment anything on the development experience that it would offer. I gave up the machine soon I joined an organisation which required me working on Microsoft's SQL Server which I wasn't able to figure-out how to install it in the machine (_Yes, I was that naive (or maybe the right word should be stupid) back then_).
 
@@ -86,7 +88,7 @@ And these statistics, led me to learn more on being able to use the OS in better
 
 ## Applications I run in My Computer
 
-When I learnt from my mentor that he used to use the Terminal (on Linux) window itself to even check his emails, I really admired the capability of both my mentor and his tool. And when I observed him taking notes in the terminal, I thought that even I should be able to do that.
+When I learnt from my mentor that he used to use the Terminal (on Linux) window itself to even check his emails, I really admired the capability of both my mentor and his tool. And when I observed him taking notes in the terminal, I thought that even I should be able to do so.
 
 Now, even I use Vim on my Terminal though only for quick/short code debugs or edits and consider myself a novice at it, I use the terminal most of the time for invoking applications, running my personal automation scripts (which can be found [here](https://gauthamsk.me/technology/))
 
