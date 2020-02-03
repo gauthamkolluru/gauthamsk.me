@@ -21,13 +21,13 @@
             <span class="label label-success">{{ . }}</span>
             {{ end }}
           </h4>
-          <aside>
-            {{ .TableOfContents }}
-          </aside>
         </div>
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost">
+              <aside>
+                {{ .TableOfContents }}
+              </aside>
               {{ .Content }}
               <hr>
               <div class="related-posts">
