@@ -35,22 +35,22 @@ theme = "hugo-sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "Literature"
+  name = "if not Tech:"
   weight = 100
   identifier = "Literature"
   url = "/Literature/"
 [[menu.main]]
-  name = "Technology"
+  name = "if Tech:"
   weight = 150
   identifier = "Technology"
   url = "/Technology/"
 [[menu.main]]
-  name = "WorkBench"
+  name = "Desk-Top"
   identifier = "WorkBench"
   weight = 200
   url = "/WorkBench/"
 [[menu.main]]
-  name = "resume"
+  name = "repr(myself)"
   identifier = "resume"
   weight = 400
   url = "/Resume.pdf"
