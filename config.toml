@@ -16,8 +16,8 @@ theme = "hugo-sustain"
   output_13_1 = "output_13_1.png"
   output_40_1 = "output_40_1.png"
   output_41_1 = "output_41_1.png"
-  author = "Sai Gautham Kolluru"
-  description = "Science, Tech & Python"
+  author = "Gautham Kolluru"
+  description = "Through the Eyes of Science and the tools of Tech"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -60,7 +60,7 @@ theme = "hugo-sustain"
   weight = 300
   url = "/learnpython/"
 [[menu.main]]
-  name = "Contact Me"
+  name = "Reach Me"
   identifier = "contact-me"
   weight = 500
   url = "/contact-me/"
