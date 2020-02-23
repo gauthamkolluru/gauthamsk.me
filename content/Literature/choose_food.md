@@ -28,7 +28,7 @@ Later on, I came up with more questions as and when I came up with more inputs l
 
 ## The Ponder
 
-With the brain that needs something to bite on at all times, there wasn't there any issue for finding time to ponder upon the above thoughts or even to just switch the topic whenever, I felt, that wasn't the time.
+With the brain that needs something to grind at all times, there wasn't there any issue in finding time to ponder upon the thoughts or even to just switch the topic whenever, I felt that, that wasn't the time.
 
 ## The Perspective
 
