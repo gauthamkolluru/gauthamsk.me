@@ -55,7 +55,7 @@ theme = "hugo-sustain"
   weight = 400
   url = "/Resume.pdf"
 [[menu.main]]
-  name = "Learn Python"
+  name = "help(Python)"
   identifier = "learnpython"
   weight = 300
   url = "/learnpython/"
