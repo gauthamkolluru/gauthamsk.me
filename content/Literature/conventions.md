@@ -26,12 +26,12 @@ The difference between the approaches adopted by Alice and Bob, though both hold
 
 In other words, Bob understands that any standards of measurements have become so because a group of people just agreed upon it. For example, if an Indian talks about distances in _kilometers_ to someone in USA, they'd just ask you back "How long is that in _miles_?" and vice-versa as the standards of measurements vary. Miles and Kilometers are just two scales calibrated differently and one can adapt to either if one understands concept of length and distance. 
 
-I feel that, knowing the conventions alone without actually understanding the concept actually deceive us (happened to me with the concept of time) by giving an illusion that we understand the concept but we actually don't and we seem to not even bother until it is absolutely necessary or it fails us somewhere. And this is what that is making us learn that the d(x<sup>2</sup>) / d(x) is 2x but if someone asks "why ?", most of us are clueless and by the same principle the derivative of the area of a circle with respect to it's radius is 2 &#960; r.
+I feel that, knowing the conventions alone without actually understanding the concept actually deceives us (happened to me with the concept of time) by giving an illusion that we understand the concept when we actually don't and we seem to not even bother until we're questioned by somebody who is important at least for that moment (interviewer). And this is what that is making us learn that the d(x<sup>2</sup>) / d(x) is 2x but if someone asks "why ?", most of us are clueless and by the same principle the derivative of the area of a circle with respect to it's radius is 2 &#960; r. I would leave this for you ponder upon, intuitively. 
 
-At the end of the day, understanding the concept can help one unify all of the them (making it easier in understanding other concepts) which can hardly be attainable by just knowing the conventions.
+At the end of the day, understanding one _concept_ (in my case _Time_) can help understanding many others, appreciate the beauty of them and apply them literally, analogously and metaphorically which can hardly be attainable by just knowing the _conventions_. 
 
 ---
 
 ## Epilogue
 
-... it is _"the gap / duration between any two random events"_ and it got me pondered again for about the next 2 days, just trying to apply the definition for the events that I've come across and deduce the evolution of the concept of _Time_ and its standards. Post which, I went through a couple of days of realisation past sobbing.
+... it is _"the gap / duration between any two random events"_ and it got me pondered again for about the next 2 days, just trying to apply the definition for the events that I've come across and deduce the evolution of the concept of _Time_ and its standards. Post which, I went through a couple of days of realisation past sobbing. 
