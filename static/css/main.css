@@ -3,7 +3,8 @@ html,
 body {
 	height: 100%;
 	background-color: #fff;
-	font-family: "Calibri", "Helvetica", "Source Sans Pro", sans-serif;
+	font-family: "Calibri", "Cambria", "Helvetica", "Source Sans Pro",
+		sans-serif;
 	/* The html and body elements cannot have any padding or margin. */
 	border-top: 3px solid #000;
 }
@@ -28,7 +29,7 @@ body {
 	border-color: #ffffff;
 }
 .navbar-default .navbar-brand {
-	color: #6b6b6b;
+	color: #391282;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
