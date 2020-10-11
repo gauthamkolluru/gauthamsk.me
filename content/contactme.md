@@ -21,5 +21,7 @@ url: /contact-me/
 
 For any information: -->
 
-* Call: <a href="tel:+919395345371">+91 - 939 534 5371</a>
-* Email: <a href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a>
+<center>
+Call: <a href="tel:+919395345371">+91 - 939 534 5371</a>
+Email: <a href="mailto:gautham.kolluru@gmail.com">gautham.kolluru@gmail.com</a>
+</center>
