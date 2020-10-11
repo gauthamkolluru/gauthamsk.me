@@ -35,32 +35,32 @@ theme = "hugo-sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "if not Tech:"
+  name = "Literature"
   weight = 100
   identifier = "Literature"
   url = "/Literature/"
 [[menu.main]]
-  name = "if Tech:"
+  name = "Technology"
   weight = 150
   identifier = "Technology"
   url = "/Technology/"
 [[menu.main]]
-  name = "Desk-Top"
+  name = "WorkBench"
   identifier = "WorkBench"
   weight = 200
   url = "/WorkBench/"
 [[menu.main]]
-  name = "repr(myself)"
+  name = "Resume"
   identifier = "resume"
   weight = 400
   url = "/Resume.pdf"
+# [[menu.main]]
+#   name = "help(Python)"
+#   identifier = "learnpython"
+#   weight = 300
+#   url = "/learnpython/"
 [[menu.main]]
-  name = "help(Python)"
-  identifier = "learnpython"
-  weight = 300
-  url = "/learnpython/"
-[[menu.main]]
-  name = "Reach Me"
+  name = "contact"
   identifier = "contact-me"
   weight = 500
   url = "/contact-me/"
