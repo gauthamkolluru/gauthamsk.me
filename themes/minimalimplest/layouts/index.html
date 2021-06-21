@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h2>Hi</h2>
+<p>I am Gautham and this is my space in this centralised system for sharing information called, <span
+        class="highlight">internet</span> and as the definition suggests, I rented this place to share the
+    stuff I write.</p>
+<p>I write both Prose and Poetry. While my prose articles can be technical or non-technical, my poetry, by far,
+    has been mostly emotional and/or cultural.</p>
+<p>The technical articles include but are not limited to <span class="highlight">Programming, Python and
+        any Side-Projects</span>, I take up.</p>
+<h2>Recent Posts</h2>
+{{ range .Site.RegularPages | first 5}}
+<h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a> &nbsp; <span style="font-size: 13px;">{{ partial
+        "metadata.html" . }}</span></h3>
+<p></p>
+{{ end }}
+<h3><a href="/posts/">More...</a></h3>
+{{ end }}

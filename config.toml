@@ -1,66 +1,38 @@
-baseurl = "https://gauthamsk.me/"
-languageCode = "en-US"
-title = "Gautham Kolluru's"
-# Enable comments by entering your Disqus shortname
-disqusShortname = "gauthamsk-me"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-63609082-2"
-enableRobotsTXT = "true"
-theme = "hugo-sustain"
-
-[permalinks]
-  post = "/:year/:month/:day/:slug"
-
-[params]
-  avatar = "profile.jpg"
-  output_13_1 = "output_13_1.png"
-  output_40_1 = "output_40_1.png"
-  output_41_1 = "output_41_1.png"
-  author = "Gautham Kolluru"
-  description = "Through the Eyes of Science and the tools of Tech"
-
-  # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
-
-[params.social]
-  Github        = "gauthamkolluru"
-  Email         = "gautham.kolluru@gmail.com"
-  Twitter       = "gauthamkolluru"
-  LinkedIn      = "gautamkolluru"
-  Stackoverflow = "users/7315848"
-  Medium        = ""
-  Telegram      = ""
-  Mobile        = "+919395345371"
-
-## Main Menu
-[[menu.main]]
-  name = "Literature"
-  weight = 100
-  identifier = "Literature"
-  url = "/Literature/"
-[[menu.main]]
-  name = "Technology"
-  weight = 150
-  identifier = "Technology"
-  url = "/Technology/"
-[[menu.main]]
-  name = "WorkBench"
-  identifier = "WorkBench"
-  weight = 200
-  url = "/WorkBench/"
-[[menu.main]]
-  name = "Resume"
-  identifier = "resume"
-  weight = 400
-  url = "/Resume.pdf"
-# [[menu.main]]
-#   name = "help(Python)"
-#   identifier = "learnpython"
-#   weight = 300
-#   url = "/learnpython/"
-[[menu.main]]
-  name = "contact"
-  identifier = "contact-me"
-  weight = 500
-  url = "/contact-me/"
+baseURL = "http://gauthamsk.me/"
+languageCode = "en-us"
+title = "Gautham's"
+theme = "minimalimplest"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    pre = "pen-tool"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "Resume"
+    pre = "resume"
+    url = "https://resume.gauthamsk.me"
+    weight = 4
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

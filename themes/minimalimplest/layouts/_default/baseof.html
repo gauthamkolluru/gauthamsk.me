@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body style="margin-top: 50px; margin-bottom: 50px; margin-left: 200px; margin-right: 200px;">
+    {{- partial "header.html" . -}}
+    <div id="content">
+        {{- block "main" . }}{{- end }}
+    </div>
+    {{- partial "footer.html" . -}}
+
+    <script>
+        var anchors = document.getElementsByTagName("a");
+
+        for (i in anchors) {
+            if (anchors[i].className && anchors[i].className.indexOf('external') != -1)
+                anchors[i].setAttribute("target", "_blank");
+        }
+    </script>
+</body>
+
+</html>

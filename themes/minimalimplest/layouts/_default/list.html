@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ $title := .Title}}
+{{ if eq $title "Tags" }}
+<h2>{{ .Title }}</h2>
+{{ range .Pages.ByPublishDate.Reverse }}
+<a class="title" href="{{ .RelPermalink }}" style="background: #DAEBFA;">{{ .Title }}</a> &ThickSpace;
+{{ end }}
+{{ else }}
+{{ range .Pages.GroupByPublishDate "January 2006" }}
+<h3>{{ .Key }}</h3>
+{{ range .Pages.ByPublishDate.Reverse }}
+<p><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a> &nbsp; <span style="font-size: 13px;">{{ partial
+        "metadata.html" . }}</span></p>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}

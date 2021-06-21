@@ -1,0 +1,23 @@
+<table style="width: 100%;">
+    <tr>
+        <td style="text-align: left;">
+            <h1><a href="/" style="color: black;">{{ .Site.Title }}</a></h1>
+        </td>
+        <td style="text-align: right;">
+            <table style="width: 100%;">
+                <tr>
+                    {{ range .Site.Menus.main }}
+                    <td style="text-align: right;">
+                        <h2>
+                            <a class="nav-link" href="{{ .URL }}">
+                                {{ $text := print .Name | safeHTML }}
+                                {{ $text }}
+                            </a>
+                        </h2>
+                    </td>
+                    {{ end }}
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
